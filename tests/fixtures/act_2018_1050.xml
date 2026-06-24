@@ -1,0 +1,1923 @@
+﻿<AknXmlList><Results><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:finlex="http://data.finlex.fi/schema/finlex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <act contains="originalVersion" name="main">
+        <meta>
+            <identification source="#organization_fi.finlex">
+                <FRBRWork>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRcountry value="fi"/>
+                    <FRBRsubtype value="statute"/>
+                    <FRBRnumber value="1050"/>
+                    <FRBRprescriptive value="true"/>
+                    <FRBRauthoritative value="true"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/swe@/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/swe@"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/swe"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRlanguage language="swe"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/swe@/!main.xml"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/swe@.akn"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/swe/xml"/>
+                    <FRBRdate date="2025-09-05" name="dateProduced"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_editor" href="#organization_fi.finlex"/>
+                    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+            <references source="#organization_fi.finlex">
+                <TLCOrganization eId="organization_fi.finlex" href="/akn/ontology/organization/fi.finlex" showAs="Finlex"/>
+                <TLCRole eId="role_author" href="/akn/ontology/role/author" showAs="TekijÃ¤"/>
+                <TLCRole eId="role_editor" href="/akn/ontology/role/editor" showAs="Toimittaja"/>
+                <TLCConcept eId="act" href="/akn/ontology/concept/statute/type-statute.act" showAs="Lag"/>
+                <TLCConcept eId="new-statute" href="/akn/ontology/concept/statute/category-statute.new-statute" showAs="Uusi sÃ¤Ã¤dÃ¶s"/>
+            </references>
+            <proprietary source="#organization_fi.finlex">
+                <finlex:typeStatute refersTo="#act"/>
+                <finlex:categoryStatute refersTo="#new-statute"/>
+                <finlex:documentYear>2018</finlex:documentYear>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docNumber>1050/2018</docNumber>
+                <docTitle>Dataskyddslag</docTitle>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="enactingClause">
+                <p>I enlighet med riksdagens beslut fÃ¶reskrivs:</p>
+            </formula>
+        </preamble>
+        <body>
+            <hcontainer finlex:outline="FÃ¶rordningens text" name="statuteProvisionsWrapper">
+                <chapter eId="chp_1">
+                    <num>1 kap.</num>
+                    <heading>AllmÃ¤nna bestÃ¤mmelser</heading>
+                    <section eId="chp_1__sec_1">
+                        <num>1 Â§</num>
+                        <heading>Lagens syfte</heading>
+                        <subsection eId="chp_1__sec_1__subsec_1">
+                            <content>
+                                <p>
+                                    Genom denna lag preciseras och kompletteras Europaparlamentets och rÃ¥dets fÃ¶rordning (EU) 2016/679 om skydd fÃ¶r fysiska personer med avseende pÃ¥ behandling av personuppgifter och om det fria flÃ¶det av sÃ¥dana uppgifter och om upphÃ¤vande av direktiv 95/46/EG (allmÃ¤n dataskyddsfÃ¶rordning), nedan 
+                                    <i>dataskyddsfÃ¶rordningen</i>, och dess nationella tillÃ¤mpning.
+                                </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_2">
+                        <num>2 Â§</num>
+                        <heading>TillÃ¤mpningsomrÃ¥de</heading>
+                        <subsection eId="chp_1__sec_2__subsec_1">
+                            <content>
+                                <p>Denna lag tillÃ¤mpas i enlighet med tillÃ¤mpningsomrÃ¥det i artikel 2 i dataskyddsfÃ¶rordningen. Denna lag och dataskyddsfÃ¶rordningen tillÃ¤mpas dessutom, med undantag fÃ¶r artikel 56 och kapitel VII i fÃ¶rordningen, pÃ¥ sÃ¥dan behandling av personuppgifter som utfÃ¶rs i samband med verksamhet som avses i artikel 2.2 a och b i dataskyddsfÃ¶rordningen, om inte nÃ¥got annat fÃ¶reskrivs nÃ¥gon annanstans i lag.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_2">
+                            <content>
+                                <p>Denna lag tillÃ¤mpas inte pÃ¥ riksdagsarbetet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_3">
+                            <content>
+                                <p>Denna lag tillÃ¤mpas inte pÃ¥ sÃ¥dan behandling av personuppgifter som regleras i lagen om behandlingÂ av personuppgifter i brottmÃ¥l och vid upprÃ¤tthÃ¥llandet av den nationella sÃ¤kerheten (1054/2018).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_3">
+                        <num>3 Â§</num>
+                        <heading>TillÃ¤mplig lag</heading>
+                        <subsection eId="chp_1__sec_3__subsec_1">
+                            <content>
+                                <p>PÃ¥ sÃ¥dan behandling av personuppgifter som sker inom ramen fÃ¶r verksamhet vid en personuppgiftsansvarigs eller ett personuppgiftsbitrÃ¤des verksamhetsstÃ¤lle i Europeiska unionen ska finsk lag tillÃ¤mpas, om den personuppgiftsansvariges verksamhetsstÃ¤lle finns i Finland.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_3__subsec_2">
+                            <content>
+                                <p>Om en frÃ¤mmande stats lag ska tillÃ¤mpas pÃ¥ behandling av personuppgifter och det med stÃ¶d av den lagen gÃ¶rs ett undantag i enlighet med artikel 89.2 i dataskyddsfÃ¶rordningen frÃ¥n de rÃ¤ttigheter som fÃ¶reskrivs fÃ¶r att skydda registrerade, ska de skyddsÃ¥tgÃ¤rder till skydd fÃ¶r registrerade som anges i 31 Â§ dock iakttas oberoende av lagvalet.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_2">
+                    <num>2 kap.</num>
+                    <heading>RÃ¤ttslig grund fÃ¶r behandling av personuppgifter i vissa fall</heading>
+                    <section eId="chp_2__sec_4">
+                        <num>4 Â§</num>
+                        <heading>Laglig behandling av personuppgifter</heading>
+                        <subsection eId="chp_2__sec_4__subsec_1">
+                            <intro eId="chp_2__sec_4__subsec_1__intro">
+                                <p>Personuppgifter fÃ¥r behandlas i enlighet med artikel 6.1 e i dataskyddsfÃ¶rordningen, om</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>det Ã¤r frÃ¥ga om uppgifter som beskriver en persons stÃ¤llning samt uppdrag och skÃ¶tseln av detta inom ett offentligt samfund, nÃ¤ringslivet, organisationsverksamhet eller nÃ¥gon annan motsvarande verksamhet, i den mÃ¥n som syftet med behandlingen Ã¤r fÃ¶renligt med allmÃ¤nt intresse och behandlingen stÃ¥r i proportion till det legitima mÃ¥l som efterstrÃ¤vas,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>behandlingen behÃ¶vs och Ã¤r proportionell i en myndighets verksamhet fÃ¶r utfÃ¶rande av en uppgift av allmÃ¤nt intresse,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>behandlingen behÃ¶vs fÃ¶r vetenskaplig eller historisk forskning eller fÃ¶r statistikfÃ¶ring och den stÃ¥r i proportion till det mÃ¥l av allmÃ¤nt intresse som efterstrÃ¤vas, eller</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>behandling av forskningsmaterial och kulturarvsmaterial som innehÃ¥ller personuppgifter samt av personuppgifter som hÃ¤nfÃ¶r sig till innehÃ¥lls- och referensinformation som gÃ¤ller sÃ¥dant material behÃ¶vs fÃ¶r arkivÃ¤ndamÃ¥l och behandlingen stÃ¥r i proportion till det mÃ¥l av allmÃ¤nt intresse som efterstrÃ¤vas och den registrerades rÃ¤ttigheter.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_5">
+                        <num>5 Â§</num>
+                        <heading>ÃldersgrÃ¤ns som tillÃ¤mpas nÃ¤r informationssamhÃ¤llets tjÃ¤nster erbjuds till barn</heading>
+                        <subsection eId="chp_2__sec_5__subsec_1">
+                            <content>
+                                <p>NÃ¤r personuppgifter behandlas med samtycke enligt artikel 6.1 a i dataskyddsfÃ¶rordningen och det Ã¤r frÃ¥ga om informationssamhÃ¤llets tjÃ¤nster enligt artikel 4.25 i dataskyddsfÃ¶rordningen som erbjuds direkt till ett barn, Ã¤r behandlingen av barnets personuppgifter lagenlig, om barnet Ã¤r minst 13 Ã¥r.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_6">
+                        <num>6 Â§</num>
+                        <heading>Behandling av sÃ¤rskilda kategorier av personuppgifter</heading>
+                        <subsection eId="chp_2__sec_6__subsec_1">
+                            <intro eId="chp_2__sec_6__subsec_1__intro">
+                                <p>Artikel 9.1 i dataskyddsfÃ¶rordningen tillÃ¤mpas inte</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>nÃ¤r en fÃ¶rsÃ¤kringsanstalt behandlar uppgifter som anstalten i fÃ¶rsÃ¤kringsverksamheten fÃ¥tt om en fÃ¶rsÃ¤krads eller ersÃ¤ttningssÃ¶kandes hÃ¤lsotillstÃ¥nd, sjukdom eller funktionsnedsÃ¤ttning eller sÃ¥dana uppgifter om de vÃ¥rdÃ¥tgÃ¤rder eller andra dÃ¤rmed jÃ¤mfÃ¶rbara Ã¥tgÃ¤rder som avser den fÃ¶rsÃ¤krade och som behÃ¶vs fÃ¶r att utreda anstaltens ansvar,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>pÃ¥ sÃ¥dan behandling av uppgifter som regleras i lag eller som fÃ¶ranleds av en uppgift som direkt har Ã¥lagts den personuppgiftsansvarige i lag,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>pÃ¥ sÃ¥dan behandling av uppgifter om medlemskap i fackfÃ¶rbund som behÃ¶vs fÃ¶r att den personuppgiftsansvarige ska kunna iaktta sina sÃ¤rskilda rÃ¤ttigheter och skyldigheter inom arbetsrÃ¤ttens omrÃ¥de,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>nÃ¤r en tillhandahÃ¥llare av hÃ¤lso- och sjukvÃ¥rdstjÃ¤nster vid ordnande eller produktion av tjÃ¤nster behandlar uppgifter som tillhandahÃ¥llaren i denna verksamhet fÃ¥tt om en persons hÃ¤lsotillstÃ¥nd eller funktionsnedsÃ¤ttning eller om en hÃ¤lso- och sjukvÃ¥rdstjÃ¤nst och rehabiliteringstjÃ¤nst som personen fÃ¥tt eller andra uppgifter som Ã¤r nÃ¶dvÃ¤ndiga med avseende pÃ¥ den registrerades vÃ¥rd,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_5">
+                                <num>5)â</num>
+                                <content>
+                                    <p>nÃ¤r en tillhandahÃ¥llare av socialvÃ¥rdstjÃ¤nster vid ordnande eller produktion av tjÃ¤nster eller beviljande av fÃ¶rmÃ¥ner behandlar uppgifter som tillhandahÃ¥llaren i denna verksamhet fÃ¥tt eller producerat om en persons hÃ¤lsotillstÃ¥nd eller funktionsnedsÃ¤ttning eller om en hÃ¤lso- och sjukvÃ¥rdstjÃ¤nst och rehabiliteringstjÃ¤nst som personen fÃ¥tt eller andra uppgifter som Ã¤r nÃ¶dvÃ¤ndiga med avseende pÃ¥ beviljande av tjÃ¤nster och fÃ¶rmÃ¥ner till den registrerade,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_6">
+                                <num>6)â</num>
+                                <content>
+                                    <p>pÃ¥ behandling av hÃ¤lsouppgifter och genetiska uppgifter i antidopningsarbete och i samband med idrott fÃ¶r personer med funktionsnedsÃ¤ttning, i den mÃ¥n behandlingen av dessa uppgifter Ã¤r nÃ¶dvÃ¤ndig fÃ¶r att mÃ¶jliggÃ¶ra antidopningsarbetet eller idrott fÃ¶r personer med funktionsnedsÃ¤ttning och idrott fÃ¶r lÃ¥ngtidssjuka,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_7">
+                                <num>7)â</num>
+                                <content>
+                                    <p>pÃ¥ behandling av uppgifter fÃ¶r vetenskaplig eller historisk forskning eller fÃ¶r statistikfÃ¶ring,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_8">
+                                <num>8)â</num>
+                                <content>
+                                    <p>pÃ¥ behandling av forskningsmaterial och kulturarvsmaterial fÃ¶r allmÃ¤nnyttiga arkivÃ¤ndamÃ¥l, med undantag fÃ¶r genetiska uppgifter.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_2">
+                            <intro eId="chp_2__sec_6__subsec_2__intro">
+                                <p>En personuppgiftsansvarig och ett personuppgiftsbitrÃ¤de som behandlar personuppgifter i en situation som avses i 1 mom. ska vidta lÃ¤mpliga och sÃ¤rskilda Ã¥tgÃ¤rder fÃ¶r att skydda den registrerades rÃ¤ttigheter. SÃ¥dana Ã¥tgÃ¤rder Ã¤r</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>Ã¥tgÃ¤rder fÃ¶r att det i efterhand ska kunna sÃ¤kerstÃ¤llas och bevisas vem som har registrerat, Ã¤ndrat eller Ã¶verfÃ¶rt personuppgifter,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>Ã¥tgÃ¤rder fÃ¶r att hÃ¶ja kompetensen hos den personal som behandlar personuppgifter,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>utnÃ¤mning av ett dataskyddsombud,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>den personuppgiftsansvariges och personuppgiftsbitrÃ¤dets interna Ã¥tgÃ¤rder fÃ¶r att fÃ¶rhindra tilltrÃ¤de till personuppgifter,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_5">
+                                <num>5)â</num>
+                                <content>
+                                    <p>pseudonymisering av personuppgifter,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_6">
+                                <num>6)â</num>
+                                <content>
+                                    <p>kryptering av personuppgifter,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_7">
+                                <num>7)â</num>
+                                <content>
+                                    <p>Ã¥tgÃ¤rder fÃ¶r att fortlÃ¶pande sÃ¤kerstÃ¤lla konfidentialitet, integritet, tillgÃ¤nglighet och motstÃ¥ndskraft hos behandlingssystemen och tjÃ¤nsterna i anknytning till behandlingen av personuppgifterna, inbegripet fÃ¶rmÃ¥ga att Ã¥terstÃ¤lla tillgÃ¤ngligheten och tillgÃ¥ngen till uppgifterna i rimlig tid vid en fysisk eller teknisk incident,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_8">
+                                <num>8)â</num>
+                                <content>
+                                    <p>ett fÃ¶rfarande fÃ¶r att regelbundet testa, undersÃ¶ka och utvÃ¤rdera effektiviteten hos de tekniska och organisatoriska Ã¥tgÃ¤rder som ska sÃ¤kerstÃ¤lla behandlingens sÃ¤kerhet,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_9">
+                                <num>9)â</num>
+                                <content>
+                                    <p>sÃ¤rskilda fÃ¶rfaranderegler fÃ¶r att sÃ¤kerstÃ¤lla att dataskyddsfÃ¶rordningen och denna lag iakttas nÃ¤r personuppgifter Ã¶verfÃ¶rs eller behandlas fÃ¶r nÃ¥got annat Ã¤ndamÃ¥l,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_10">
+                                <num>10)â</num>
+                                <content>
+                                    <p>utfÃ¶rande av en konsekvensbedÃ¶mning avseende dataskydd enligt artikel 35 i dataskyddsfÃ¶rordningen.</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_11">
+                                <num>11)â</num>
+                                <content>
+                                    <p>andra tekniska, fÃ¶rfarandemÃ¤ssiga och organisatoriska Ã¥tgÃ¤rder.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_7">
+                        <num>7 Â§</num>
+                        <heading>Behandling av personuppgifter som rÃ¶r fÃ¤llande domar i brottmÃ¥l samt Ã¶vertrÃ¤delser</heading>
+                        <subsection eId="chp_2__sec_7__subsec_1">
+                            <intro eId="chp_2__sec_7__subsec_1__intro">
+                                <p>Personuppgifter som rÃ¶r i artikel 10 i dataskyddsfÃ¶rordningen avsedda fÃ¤llande domar i brottmÃ¥l och Ã¶vertrÃ¤delser eller dÃ¤rmed sammanhÃ¤ngande sÃ¤kerhetsÃ¥tgÃ¤rder fÃ¥r behandlas om</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_7__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>behandlingen behÃ¶vs fÃ¶r utredning, faststÃ¤llande, utÃ¶vande, fÃ¶rsvar eller avgÃ¶rande av rÃ¤ttsliga ansprÃ¥k, eller</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_7__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>uppgifterna behandlas fÃ¶r syften som anges i 6 Â§ 1 mom. 1, 2 eller 7 punkten.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_7__subsec_2">
+                            <content>
+                                <p>Vad som i 6 Â§ 2 mom. fÃ¶reskrivs om Ã¥tgÃ¤rder fÃ¶r att skydda den registrerades rÃ¤ttigheter tillÃ¤mpasÂ Ã¤ven vid behandling av sÃ¥dana personuppgifter som avses i 1 mom. i denna paragraf.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_3">
+                    <num>3 kap.</num>
+                    <heading>Tillsynsmyndighet</heading>
+                    <section eId="chp_3__sec_8">
+                        <num>8 Â§</num>
+                        <heading>Dataombudsmannen</heading>
+                        <subsection eId="chp_3__sec_8__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen Ã¤r den nationella tillsynsmyndighet som avses i dataskyddsfÃ¶rordningen. Dataombudsmannen finns i anslutning till justitieministeriet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_8__subsec_2">
+                            <content>
+                                <p>Dataombudsmannen Ã¤r sjÃ¤lvstÃ¤ndig och oberoende i sin verksamhet.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_9">
+                        <num>9 Â§</num>
+                        <heading>Dataombudsmannens byrÃ¥</heading>
+                        <subsection eId="chp_3__sec_9__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen har en byrÃ¥ med minst tvÃ¥ bitrÃ¤dande dataombudsmÃ¤n och ett behÃ¶vligt antal fÃ¶redragande som Ã¤r fÃ¶rtrogna med dataombudsmannens uppgiftsomrÃ¥de och annan personal.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_9__subsec_2">
+                            <content>
+                                <p>Dataombudsmannen utnÃ¤mner tjÃ¤nstemÃ¤nnen och anstÃ¤ller den Ã¶vriga personalen vid byrÃ¥n.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_9__subsec_3">
+                            <content>
+                                <p>Dataombudsmannen godkÃ¤nner en arbetsordning fÃ¶r byrÃ¥n.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_10">
+                        <num>10 Â§</num>
+                        <heading>BehÃ¶righetsvillkor och utnÃ¤mningsgrunder</heading>
+                        <subsection eId="chp_3__sec_10__subsec_1">
+                            <content>
+                                <p>BehÃ¶righetsvillkor fÃ¶r dataombudsmannen och bitrÃ¤dande dataombudsmÃ¤n Ã¤r annan hÃ¶gre hÃ¶gskoleexamen i juridik Ã¤n magisterexamen i internationell och komparativ rÃ¤tt, god fÃ¶rtrogenhet med frÃ¥gor som gÃ¤ller skydd av personuppgifter och i praktiken visad ledarfÃ¶rmÃ¥ga. Dessutom fÃ¶rutsÃ¤tts fÃ¶rmÃ¥ga att skÃ¶ta internationella uppgifter.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_11">
+                        <num>11 Â§</num>
+                        <heading>UtnÃ¤mning och mandatperiod</heading>
+                        <subsection eId="chp_3__sec_11__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen och bitrÃ¤dande dataombudsmÃ¤n utnÃ¤mns av statsrÃ¥det fÃ¶r fem Ã¥r i sÃ¤nder.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_11__subsec_2">
+                            <content>
+                                <p>Den som utnÃ¤mns till dataombudsman och bitrÃ¤dande dataombudsman Ã¤r fri frÃ¥n skÃ¶tseln av en annan tjÃ¤nst under den tid som han eller hon Ã¤r dataombudsman eller bitrÃ¤dande dataombudsman.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_12">
+                        <num>12 Â§</num>
+                        <heading>SakkunnignÃ¤mnd</heading>
+                        <subsection eId="chp_3__sec_12__subsec_1">
+                            <content>
+                                <p>Vid dataombudsmannens byrÃ¥ finns en sakkunnignÃ¤mnd som bestÃ¥r av ordfÃ¶rande, en vice ordfÃ¶rande och tre andra ledamÃ¶ter. Var och en av dem ska ha en personlig ersÃ¤ttare.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_2">
+                            <content>
+                                <p>StatsrÃ¥det tillsÃ¤tter nÃ¤mnden fÃ¶r en mandatperiod pÃ¥ tre Ã¥r.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_3">
+                            <content>
+                                <p>NÃ¤mndens ordfÃ¶rande och vice ordfÃ¶rande ska ha avlagt annan hÃ¶gre hÃ¶gskoleexamen i juridik Ã¤n magisterexamen i internationell och komparativ rÃ¤tt och ha god fÃ¶rtrogenhet med frÃ¥gor som gÃ¤ller skydd av personuppgifter och den Ã¶vriga kompetens som skÃ¶tseln av uppgiften fÃ¶rutsÃ¤tter. Av nÃ¤mndens Ã¶vriga ledamÃ¶ter fÃ¶rutsÃ¤tts fÃ¶rtrogenhet med frÃ¥gor som gÃ¤ller skydd av personuppgifter och den Ã¶vriga kompetens som skÃ¶tseln av uppgiften fÃ¶rutsÃ¤tter.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_4">
+                            <content>
+                                <p>PÃ¥ nÃ¤mndens ledamÃ¶ter tillÃ¤mpas bestÃ¤mmelserna om straffrÃ¤ttsligt tjÃ¤nsteansvar nÃ¤r de skÃ¶ter uppgifter som avses i denna lag. BestÃ¤mmelser om skadestÃ¥ndsansvar finns i skadestÃ¥ndslagen (412/1974). NÃ¤mndens ledamÃ¶ter och ersÃ¤ttarna betalas arvode fÃ¶r uppdraget. Justitieministeriet faststÃ¤ller arvodesbeloppen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_13">
+                        <num>13 Â§</num>
+                        <heading>RedogÃ¶relse fÃ¶r bindningar</heading>
+                        <subsection eId="chp_3__sec_13__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen och bitrÃ¤dande dataombudsmÃ¤n ska lÃ¤mna en i 8Â a Â§ i statstjÃ¤nstemannalagen (750/1994) avsedd redogÃ¶relse fÃ¶r sina bindningar.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_14">
+                        <num>14 Â§</num>
+                        <heading>Dataombudsmannens uppgifter och befogenheter</heading>
+                        <subsection eId="chp_3__sec_14__subsec_1">
+                            <content>
+                                <p>BestÃ¤mmelser om dataombudsmannens uppgifter och befogenheter finns i artiklarna 55â59Â i dataskyddsfÃ¶rordningen. Dataombudsmannen har ocksÃ¥ andra uppgifter och befogenheter som anges i denna lag och annanstans i lag.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_2">
+                            <content>
+                                <p>Dataombudsmannen Ã¶vervakar inte statsrÃ¥dets justitiekanslers eller riksdagens justitieombudsmans verksamhet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_3">
+                            <content>
+                                <p>Dataombudsmannen fÃ¶retrÃ¤der Finland i Europeiska dataskyddsstyrelsen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_4">
+                            <content>
+                                <p>Dataombudsmannen ackrediterar det certifieringsorgan som avses i artikel 43 i dataskyddsfÃ¶rordningen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_5">
+                            <content>
+                                <p>Dataombudsmannen ska upprÃ¤tta en Ã¥rlig rapport om sin verksamhet enligt artikel 59 i dataskyddsfÃ¶rordningen och lÃ¤mna den till riksdagen och statsrÃ¥det. Verksamhetsrapporten ska hÃ¥llas allmÃ¤nt tillgÃ¤nglig.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_15">
+                        <num>15 Â§</num>
+                        <heading>Dataombudsmannens beslutsfattande</heading>
+                        <subsection eId="chp_3__sec_15__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen avgÃ¶r Ã¤renden efter fÃ¶redragning, om inte han eller hon i ett enskilt fall beslutar nÃ¥got annat.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_16">
+                        <num>16 Â§</num>
+                        <heading>BitrÃ¤dande dataombudsmannens uppgifter och befogenheter</heading>
+                        <subsection eId="chp_3__sec_16__subsec_1">
+                            <content>
+                                <p>UppgiftsfÃ¶rdelningen mellan dataombudsmannen och de bitrÃ¤dande dataombudsmÃ¤nnen bestÃ¤ms i arbetsordningen fÃ¶r dataombudsmannens byrÃ¥.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_16__subsec_2">
+                            <content>
+                                <p>En bitrÃ¤dande dataombudsman har vid skÃ¶tseln av sina uppgifter samma befogenheter som dataombudsmannen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_17">
+                        <num>17 Â§</num>
+                        <heading>SakkunnignÃ¤mndens uppgifter och behandling av Ã¤renden</heading>
+                        <subsection eId="chp_3__sec_17__subsec_1">
+                            <content>
+                                <p>SakkunnignÃ¤mnden ska pÃ¥ dataombudsmannens begÃ¤ran ge utlÃ¥tanden om viktiga frÃ¥gor i samband med tillÃ¤mpningen av lagstiftning som gÃ¤ller behandling av personuppgifter.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_17__subsec_2">
+                            <content>
+                                <p>NÃ¤mnden kan hÃ¶ra utomstÃ¥ende sakkunniga.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_17__subsec_3">
+                            <content>
+                                <p>En fÃ¶redragande vid dataombudsmannens byrÃ¥ Ã¤r sekreterare fÃ¶r nÃ¤mnden.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_18">
+                        <num>18 Â§</num>
+                        <heading>Dataombudsmannens rÃ¤tt att fÃ¥ information och utfÃ¶ra inspektioner</heading>
+                        <subsection eId="chp_3__sec_18__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen har, utÃ¶ver vad som i artikel 58.1 i dataskyddsfÃ¶rordningen fÃ¶reskrivs om tillsynsmyndighetens rÃ¤tt att fÃ¥ information och utfÃ¶ra inspektioner, rÃ¤tt att trots sekretessbestÃ¤mmelserna avgiftsfritt fÃ¥ de uppgifter som behÃ¶vs fÃ¶r skÃ¶tseln av sina uppgifter.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_18__subsec_2">
+                            <content>
+                                <p>I utrymmen som anvÃ¤nds fÃ¶r boende av permanent natur fÃ¥r inspektion utfÃ¶ras endast om det Ã¤r nÃ¶dvÃ¤ndigt fÃ¶r att utreda de omstÃ¤ndigheter som Ã¤r fÃ¶remÃ¥l fÃ¶r inspektion och det i det aktuella fallet finns motiverade och specificerade skÃ¤l att misstÃ¤nka att det har skett eller kommer att ske en sÃ¥dan Ã¶vertrÃ¤delse av bestÃ¤mmelserna om behandling av personuppgifter att pÃ¥fÃ¶ljden kan vara en administrativ pÃ¥fÃ¶ljdsavgift eller ett straff enligt strafflagen (39/1889).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_19">
+                        <num>19 Â§</num>
+                        <heading>Anlitande av sakkunniga</heading>
+                        <subsection eId="chp_3__sec_19__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen fÃ¥r hÃ¶ra utomstÃ¥ende sakkunniga och begÃ¤ra utlÃ¥tanden frÃ¥n dem.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_19__subsec_2">
+                            <content>
+                                <p>Dataombudsmannen fÃ¥r vid inspektioner som ingÃ¥r i dataombudsmannens befogenheter anlita bitrÃ¤de av utomstÃ¥ende sakkunniga. PÃ¥ en sakkunnig tillÃ¤mpas bestÃ¤mmelserna om straffrÃ¤ttsligt tjÃ¤nsteansvar nÃ¤r han eller hon skÃ¶ter sÃ¥dana uppgifter. BestÃ¤mmelser om skadestÃ¥ndsansvar finns i skadestÃ¥ndslagen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_20">
+                        <num>20 Â§</num>
+                        <heading>HandrÃ¤ckning</heading>
+                        <subsection eId="chp_3__sec_20__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen har rÃ¤tt att pÃ¥ begÃ¤ran fÃ¥ handrÃ¤ckning av polisen fÃ¶r att utfÃ¶ra sina uppgifter.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_4">
+                    <num>4 kap.</num>
+                    <heading>RÃ¤ttssÃ¤kerhet och pÃ¥fÃ¶ljder</heading>
+                    <section eId="chp_4__sec_21">
+                        <num>21 Â§</num>
+                        <heading>RÃ¤tt att fÃ¶ra Ã¤renden till dataombudsmannen</heading>
+                        <subsection eId="chp_4__sec_21__subsec_1">
+                            <content>
+                                <p>En registrerad har rÃ¤tt att fÃ¶ra ett Ã¤rende till dataombudsmannen fÃ¶r behandling, om den registrerade anser att nÃ¥gon vid behandlingen av hans eller hennes personuppgifter bryter mot den gÃ¤llande lagstiftningen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_21__subsec_2">
+                            <content>
+                                <p>Dataombudsmannen kan avbryta behandlingen av ett Ã¤rende, om ett Ã¤rende som har samband med det Ã¤r anhÃ¤ngigt i domstol.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_22">
+                        <num>22 Â§</num>
+                        <heading>Vite</heading>
+                        <subsection eId="chp_4__sec_22__subsec_1">
+                            <content>
+                                <p>Dataombudsmannen fÃ¥r fÃ¶rena ett i dataskyddsfÃ¶rordningens artikel 58.2 câg och j avsett beslut samt ett med stÃ¶d av 18 Â§ 1 mom. i denna lag meddelat fÃ¶relÃ¤ggande att lÃ¤mna ut uppgifter med vite. BestÃ¤mmelser om fÃ¶relÃ¤ggande och utdÃ¶mande av vite finns i viteslagen (1113/1990).</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_22__subsec_2">
+                            <content>
+                                <p>Ett i 1 mom. avsett fÃ¶relÃ¤ggande att lÃ¤mna ut uppgifter fÃ¥r inte fÃ¶renas med ett vitesfÃ¶relÃ¤ggande riktat till en fysisk person, om det finns anledning att misstÃ¤nka personen fÃ¶r brott och uppgifterna gÃ¤ller en omstÃ¤ndighet som har samband med brottsmisstanken.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_23">
+                        <num>23 Â§</num>
+                        <heading>Beslut av kommissionen</heading>
+                        <subsection eId="chp_4__sec_23__subsec_1">
+                            <content>
+                                <p>Om dataombudsmannen i ett Ã¤rende som Ã¤r anhÃ¤ngigt hos dataombudsmannen anser att det behÃ¶ver utredas om ett beslut som Europeiska kommissionen fattat om adekvat skyddsnivÃ¥ enligt artikel 45 i dataskyddsfÃ¶rordningen Ã¤r fÃ¶renligt med dataskyddsfÃ¶rordningen, kan dataombudsmannen genom en ansÃ¶kan fÃ¶ra ett Ã¤rende som gÃ¤ller begÃ¤ran om fÃ¶rhandsavgÃ¶rande till Helsingfors fÃ¶rvaltningsdomstol fÃ¶r avgÃ¶rande.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_23__subsec_2">
+                            <content>
+                                <p>I fÃ¶rvaltningsdomstolens beslut fÃ¥r Ã¤ndring sÃ¶kas genom besvÃ¤r endast om hÃ¶gsta fÃ¶rvaltningsdomstolen beviljar besvÃ¤rstillstÃ¥nd.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_24">
+                        <num>24 Â§</num>
+                        <heading>Administrativa pÃ¥fÃ¶ljdsavgifter</heading>
+                        <subsection eId="chp_4__sec_24__subsec_1">
+                            <content>
+                                <p>
+                                    Administrativa sanktionsavgifter (<i>administrativa pÃ¥fÃ¶ljdsavgifter</i>) enligt artikel 83 i dataskyddsfÃ¶rordningen pÃ¥fÃ¶rs av ett pÃ¥fÃ¶ljdskollegium som bestÃ¥r av dataombudsmannen och de bitrÃ¤dande dataombudsmÃ¤nnen tillsammans. Dataombudsmannen Ã¤r ordfÃ¶rande fÃ¶r kollegiet. Om en bitrÃ¤dande dataombudsman har fÃ¶rhinder, kan denne ersÃ¤ttas i pÃ¥fÃ¶ljdskollegiet av en fÃ¶redragande som utses fÃ¶r detta i arbetsordningen fÃ¶r dataombudsmannens byrÃ¥. Kollegiet Ã¤r beslutfÃ¶rt med tre medlemmar.
+                                </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_2">
+                            <content>
+                                <p>Kollegiet ska fatta beslut efter fÃ¶redragning. Som beslut gÃ¤ller den mening som flertalet har understÃ¶tt. Vid lika rÃ¶stetal gÃ¤ller som beslut den mening som Ã¤r lindrigare fÃ¶r den som pÃ¥fÃ¶ljden riktas mot.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_3">
+                            <content>
+                                <p>PÃ¥fÃ¶ljdsavgifter fÃ¥r pÃ¥fÃ¶ras Ã¤ven fÃ¶r Ã¶vertrÃ¤delse av artikel 10 i dataskyddsfÃ¶rordningen, med iakttagande av vad som fÃ¶reskrivs i artikel 83.5 i dataskyddsfÃ¶rordningen och i denna lag.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_4">
+                            <content>
+                                <p>Statliga myndigheter, statliga affÃ¤rsverk, kommunala myndigheter, sjÃ¤lvstÃ¤ndiga offentligrÃ¤ttsliga institutioner, riksdagens Ã¤mbetsverk, republikens presidents kansli, evangelisk-lutherska kyrkan i Finland, ortodoxa kyrkan i Finland och de tvÃ¥ sistnÃ¤mndas fÃ¶rsamlingar, kyrkliga samfÃ¤lligheter och Ã¶vriga organ fÃ¥r inte pÃ¥fÃ¶ras pÃ¥fÃ¶ljdsavgift.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_5">
+                            <content>
+                                <p>PÃ¥fÃ¶ljdsavgift fÃ¥r inte pÃ¥fÃ¶ras, om det har fÃ¶rflutit mer Ã¤n tio Ã¥r sedan Ã¶vertrÃ¤delsen eller fÃ¶rsummelsen har skett. Om Ã¶vertrÃ¤delsen eller fÃ¶rsummelsen har varit fortlÃ¶pande rÃ¤knas den tioÃ¥riga tidsfristen frÃ¥n det att Ã¶vertrÃ¤delsen eller fÃ¶rsummelsen har upphÃ¶rt.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_6">
+                            <content>
+                                <p>BestÃ¤mmelser om verkstÃ¤llighet av pÃ¥fÃ¶ljdsavgifter finns i lagen om verkstÃ¤llighet av bÃ¶ter (672/2002). En pÃ¥fÃ¶ljdsavgift preskriberas fem Ã¥r frÃ¥n den dag dÃ¥ den pÃ¥fÃ¶rdes.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_25">
+                        <num>25 Â§</num>
+                        <heading>ÃndringssÃ¶kande</heading>
+                        <subsection eId="chp_4__sec_25__subsec_1">
+                            <content>
+                                <p>Dataombudsmannens, bitrÃ¤dande dataombudsmannens och ett i 24 Â§ 1 mom. avsett beslut fÃ¥r Ã¶verklagas genom besvÃ¤r hos fÃ¶rvaltningsdomstolen pÃ¥ det sÃ¤tt som anges i fÃ¶rvaltningsprocesslagen (586/1996).</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_25__subsec_2">
+                            <content>
+                                <p>Ãver fÃ¶rvaltningsdomstolens beslut fÃ¥r besvÃ¤r anfÃ¶ras endast om hÃ¶gsta fÃ¶rvaltningsdomstolen beviljar besvÃ¤rstillstÃ¥nd. Ãven dataombudsmannen fÃ¥r sÃ¶ka Ã¤ndring i ett beslut av fÃ¶rvaltningsdomstolen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_25__subsec_3">
+                            <content>
+                                <p>I ett beslut av dataombudsmannen eller en bitrÃ¤dande dataombudsman kan det bestÃ¤mmas att beslutet ska iakttas trots Ã¤ndringssÃ¶kande, om inte besvÃ¤rsmyndigheten bestÃ¤mmer nÃ¥got annat.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_26">
+                        <num>26 Â§</num>
+                        <heading>StraffbestÃ¤mmelser</heading>
+                        <subsection eId="chp_4__sec_26__subsec_1">
+                            <content>
+                                <p>BestÃ¤mmelser om straff fÃ¶r dataskyddsbrott finns i 38 kap. 9 Â§ i strafflagen. BestÃ¤mmelser om straff fÃ¶r krÃ¤nkning av kommunikationshemlighet och fÃ¶r grov krÃ¤nkning av kommunikationshemlighet finns i 38 kap. 3 och 4 Â§ i strafflagen och bestÃ¤mmelser om straff fÃ¶r dataintrÃ¥ng och fÃ¶r grovt dataintrÃ¥ng i 38 kap. 8 och 8Â a Â§ i den lagen. Till straff fÃ¶r brott mot tystnadsplikten enligt 35 Â§ i denna lag och mot sekretessen enligt 36 Â§ dÃ¶ms enligt 38 kap. 1 eller 2 Â§ i strafflagen, om inte gÃ¤rningen utgÃ¶r brott enligt 40 kap. 5 Â§ i strafflagen eller om inte strÃ¤ngare straff fÃ¶r den fÃ¶reskrivs nÃ¥gon annanstans i lag.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_26__subsec_2">
+                            <content>
+                                <p>I 38 kap. 10 Â§ 3 mom. i strafflagen finns det bestÃ¤mmelser om Ã¥klagarens skyldighet att hÃ¶ra dataombudsmannen innan Ã¥tal vÃ¤cks fÃ¶r brott som nÃ¤mns i 1 mom. i denna paragraf liksom om domstolens skyldighet att ge dataombudsmannen tillfÃ¤lle att bli hÃ¶rd nÃ¤r domstolen behandlar ett sÃ¥dant mÃ¥l.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_5">
+                    <num>5 kap.</num>
+                    <heading>SÃ¤rskilda behandlingssituationer</heading>
+                    <section eId="chp_5__sec_27">
+                        <num>27 Â§</num>
+                        <heading>Behandling av personuppgifter fÃ¶r journalistiska, akademiska, konstnÃ¤rliga eller litterÃ¤ra Ã¤ndamÃ¥l</heading>
+                        <subsection eId="chp_5__sec_27__subsec_1">
+                            <content>
+                                <p>FÃ¶r att trygga yttrandefriheten och informationsfriheten ska artikel 5.1 câe, artiklarna 6 och 7, artiklarna 9 och 10, artikel 11.2, artiklarna 12â22, artikel 30, artikel 34.1â34.3, artiklarna 35 och 36, artikel 56, artikel 58.2 f, artiklarna 60â63 och artiklarna 65â67 i dataskyddsfÃ¶rordningen inte tillÃ¤mpas pÃ¥ behandling av personuppgifter som sker fÃ¶r enbart journalistiska Ã¤ndamÃ¥l eller fÃ¶r akademiskt, konstnÃ¤rligt eller litterÃ¤rt skapande.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_27__subsec_2">
+                            <content>
+                                <p>Artikel 27 i dataskyddsfÃ¶rordningen ska inte tillÃ¤mpas pÃ¥ behandling av personuppgifter i samband med sÃ¥dan verksamhet som omfattas av lagen om yttrandefrihet i masskommunikation (460/2003). Artiklarna 44â50 i dataskyddsfÃ¶rordningen ska inte tillÃ¤mpas, om tillÃ¤mpningen skulle krÃ¤nka rÃ¤tten till yttrandefrihet eller informationsfrihet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_27__subsec_3">
+                            <content>
+                                <p>FÃ¶r att trygga yttrandefriheten och informationsfriheten ska artikel 5.1 a och b, artikel 5.2, artiklarna 24â26, artikel 31, artiklarna 39 och 40, artikel 42, artiklarna 57 och 58, artikel 64Â och artikel 70 i dataskyddsfÃ¶rordningen endast tillÃ¤mpas i tillÃ¤mpliga delar pÃ¥ behandling av personuppgifter som sker fÃ¶r enbart journalistiska Ã¤ndamÃ¥l eller fÃ¶r akademiskt, konstnÃ¤rligt eller litterÃ¤rt skapande.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_28">
+                        <num>28 Â§</num>
+                        <heading>Offentlighetsprincipen</heading>
+                        <subsection eId="chp_5__sec_28__subsec_1">
+                            <content>
+                                <p>PÃ¥ rÃ¤tten att fÃ¥ uppgifter ur myndigheternas personregister och pÃ¥ annat utlÃ¤mnande av personuppgifter ur dessa personregister tillÃ¤mpas vad som fÃ¶reskrivs om offentlighet i myndigheternas verksamhet.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_29">
+                        <num>29 Â§</num>
+                        <heading>Behandling av personbeteckningar</heading>
+                        <subsection eId="chp_5__sec_29__subsec_1">
+                            <intro eId="chp_5__sec_29__subsec_1__intro">
+                                <p>En personbeteckning fÃ¥r behandlas med den registrerades samtycke eller nÃ¤r behandlingen regleras i lag. Dessutom fÃ¥r en personbeteckning behandlas, om det Ã¤r viktigt att entydigt identifiera den registrerade</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>fÃ¶r att utfÃ¶ra en i lag angiven uppgift,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>fÃ¶r att tillgodose den registrerades eller den personuppgiftsansvariges rÃ¤ttigheter och uppfylla den registrerades eller den personuppgiftsskyldiges skyldigheter, eller</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>fÃ¶r historisk eller vetenskaplig forskning eller fÃ¶r statistikfÃ¶ring.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_2">
+                            <content>
+                                <p>En personbeteckning fÃ¥r behandlas vid kreditgivning och indrivning av fordringar, i fÃ¶rsÃ¤krings-, kreditinstituts-, betaltjÃ¤nst-, uthyrnings- och utlÃ¥ningsverksamhet, i kreditupplysningsverksamhet, inom hÃ¤lso- och sjukvÃ¥rden, inom socialvÃ¥rden och inom annan verksamhet fÃ¶r att tillfÃ¶rsÃ¤kra social trygghet samt i Ã¤renden som gÃ¤ller tjÃ¤nste- och arbetsavtalsfÃ¶rhÃ¥llanden och andra anstÃ¤llningsfÃ¶rhÃ¥llanden och fÃ¶rmÃ¥ner som har samband med dessa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_3">
+                            <content>
+                                <p>UtÃ¶ver vad som i 1 och 2 mom. fÃ¶reskrivs om behandling av personbeteckningar fÃ¥r en personbeteckning lÃ¤mnas ut fÃ¶r sÃ¥dan databehandling som sker i syfte att uppdatera adressuppgifter eller undvika mÃ¥ngfaldig postning, om mottagaren redan har tillgÃ¥ng till personbeteckningen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_4">
+                            <content>
+                                <p>En personbeteckning fÃ¥r inte onÃ¶digtvis antecknas i handlingar som skrivs ut eller upprÃ¤ttas pÃ¥ basis av ett personregister.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_30">
+                        <num>30 Â§</num>
+                        <heading>Behandling av personuppgifter i anstÃ¤llningsfÃ¶rhÃ¥llanden</heading>
+                        <subsection eId="chp_5__sec_30__subsec_1">
+                            <content>
+                                <p>BestÃ¤mmelser om behandling av anstÃ¤lldas personuppgifter, test och kontroller som anstÃ¤llda ska genomgÃ¥ och de krav som stÃ¤lls pÃ¥ dessa, teknisk Ã¶vervakning pÃ¥ arbetsplatsen samt hÃ¤mtning och Ã¶ppnande av anstÃ¤lldas e-postmeddelanden finns i lagen om integritetsskydd i arbetslivet (759/2004).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_31">
+                        <num>31 Â§</num>
+                        <heading>Undantag och skyddsÃ¥tgÃ¤rder som avser behandling av personuppgifter fÃ¶r vetenskapliga och historiska forskningsÃ¤ndamÃ¥l samt statistiska Ã¤ndamÃ¥l</heading>
+                        <subsection eId="chp_5__sec_31__subsec_1">
+                            <intro eId="chp_5__sec_31__subsec_1__intro">
+                                <p>NÃ¤r personuppgifter behandlas fÃ¶r vetenskapliga eller historiska forskningsÃ¤ndamÃ¥l fÃ¥r undantag vid behov gÃ¶ras frÃ¥n den registrerades rÃ¤ttigheter enligt artiklarna 15, 16, 18 och 21 i dataskyddsfÃ¶rordningen, under fÃ¶rutsÃ¤ttning att</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>behandlingen av uppgifterna grundar sig pÃ¥ en Ã¤ndamÃ¥lsenlig forskningsplan,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>det finns en ansvarig person eller en grupp som ansvarar fÃ¶r forskningen, och</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>personuppgifterna anvÃ¤nds och lÃ¤mnas ut endast fÃ¶r historisk eller vetenskaplig forskning eller ett annat fÃ¶renligt Ã¤ndamÃ¥l och verksamheten ocksÃ¥ i Ã¶vrigt bedrivs sÃ¥ att uppgifter om bestÃ¤mda personer inte rÃ¶js fÃ¶r utomstÃ¥ende.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_31__subsec_2">
+                            <intro eId="chp_5__sec_31__subsec_2__intro">
+                                <p>NÃ¤r personuppgifter behandlas fÃ¶r statistiska Ã¤ndamÃ¥l fÃ¥r undantag vid behov gÃ¶ras frÃ¥n den registrerades rÃ¤ttigheter enligt artiklarna 15, 16, 18 och 21 i dataskyddsfÃ¶rordningen, under fÃ¶rutsÃ¤ttning att</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>statistiken inte kan tas fram eller det informationsbehov som ligger till grund fÃ¶r den inte kan tillgodoses utan att personuppgifter behandlas,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>framtagandet av statistiken har en saklig anknytning till den personuppgiftsansvariges verksamhet, och</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>uppgifter inte lÃ¤mnas ut eller gÃ¶rs tillgÃ¤ngliga pÃ¥ ett sÃ¥dant sÃ¤tt att de kan hÃ¤nfÃ¶ras till nÃ¥gon bestÃ¤md person, om inte uppgifterna lÃ¤mnas ut fÃ¶r officiell statistik.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_31__subsec_3">
+                            <content>
+                                <p>NÃ¤r personuppgifter som avses i artikel 9.1 och artikel 10 i dataskyddsfÃ¶rordningen behandlas fÃ¶r ett Ã¤ndamÃ¥l enligt 1 eller 2 mom. krÃ¤vs det fÃ¶r ett undantag frÃ¥n den registrerades rÃ¤ttigheter enligt artiklarna 15, 16, 18 och 21 i dataskyddsfÃ¶rordningen, utÃ¶ver vad som fÃ¶reskrivs i 1 och 2Â mom., att det utfÃ¶rs en konsekvensbedÃ¶mning avseende dataskydd enligt artikel 35 i dataskyddsfÃ¶rordningen eller att en i artikel 40 i dataskyddsfÃ¶rordningen avsedd uppfÃ¶randekod fÃ¶ljs och att koden pÃ¥ behÃ¶rigt sÃ¤tt beaktar ovan avsedda mÃ¶jlighet att gÃ¶ra undantag frÃ¥n den registrerades rÃ¤ttigheter. KonsekvensbedÃ¶mningen ska skriftligen delges dataombudsmannen innan behandlingen inleds.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_32">
+                        <num>32 Â§</num>
+                        <heading>Undantag och skyddsÃ¥tgÃ¤rder som avser behandling av personuppgifter fÃ¶r arkivÃ¤ndamÃ¥l av allmÃ¤nt intresse</heading>
+                        <subsection eId="chp_5__sec_32__subsec_1">
+                            <content>
+                                <p>NÃ¤r personuppgifter behandlas med stÃ¶d av 4 Â§ 4 punkten eller artikel 6.1 c i dataskyddsfÃ¶rordningen fÃ¶r arkivÃ¤ndamÃ¥l av allmÃ¤nt intresse fÃ¥r undantag gÃ¶ras frÃ¥n den registrerades rÃ¤ttigheter enligt artiklarna 15, 16 och 18â21Â i dataskyddsfÃ¶rordningen under de fÃ¶rutsÃ¤ttningar som anges i artikel 89.3 i dataskyddsfÃ¶rordningen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_33">
+                        <num>33 Â§</num>
+                        <heading>BegrÃ¤nsningar i den personuppgiftsansvariges skyldighet att tillhandahÃ¥lla de registrerade information</heading>
+                        <subsection eId="chp_5__sec_33__subsec_1">
+                            <content>
+                                <p>Undantag frÃ¥n skyldigheten enligt artiklarna 13 och 14 i dataskyddsfÃ¶rordningen att tillhandahÃ¥lla den registrerade information fÃ¥r gÃ¶ras, om det Ã¤r nÃ¶dvÃ¤ndigt med hÃ¤nsyn till statens sÃ¤kerhet, fÃ¶rsvaret eller allmÃ¤n ordning och sÃ¤kerhet eller fÃ¶r fÃ¶rebyggande eller utredande av brott eller fÃ¶r tillsynsuppgifter som anknyter till beskattningen eller den offentliga ekonomin.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_33__subsec_2">
+                            <content>
+                                <p>Undantag frÃ¥n artikel 14.1â14.4 i dataskyddsfÃ¶rordningen fÃ¥r ocksÃ¥ gÃ¶ras om tillhandahÃ¥llandet av information orsakar vÃ¤sentlig skada eller olÃ¤genhet fÃ¶r den registrerade och de uppgifter som registreras inte anvÃ¤nds fÃ¶r sÃ¥dant beslutsfattande som gÃ¤ller den registrerade.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_33__subsec_3">
+                            <content>
+                                <p>Om den registrerade enligt 1 eller 2 mom. inte tillhandahÃ¥lls information, ska den personuppgiftsansvarige vidta lÃ¤mpliga Ã¥tgÃ¤rder till skydd fÃ¶r den registrerades rÃ¤ttigheter. I dessa Ã¥tgÃ¤rder ingÃ¥r att hÃ¥lla den information som avses i artikel 14.1 och 14.2 i dataskyddsfÃ¶rordningen allmÃ¤nt tillgÃ¤nglig, om inte detta Ã¤ventyrar syftet med begrÃ¤nsningen som gÃ¤ller tillhandahÃ¥llande av information.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_34">
+                        <num>34 Â§</num>
+                        <heading>BegrÃ¤nsningar i den registrerades rÃ¤tt att fÃ¥ tillgÃ¥ng till de uppgifter som samlats in om honom eller henne</heading>
+                        <subsection eId="chp_5__sec_34__subsec_1">
+                            <intro eId="chp_5__sec_34__subsec_1__intro">
+                                <p>En registrerad har inte i artikel 15 i dataskyddsfÃ¶rordningen avsedd rÃ¤tt att fÃ¥ tillgÃ¥ng till uppgifter som samlats in om honom eller henne, om</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>lÃ¤mnandet av informationen kan skada den nationella sÃ¤kerheten, fÃ¶rsvaret eller allmÃ¤n ordning och sÃ¤kerhet eller fÃ¶rsvÃ¥ra fÃ¶rebyggande eller utredning av brott,</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>lÃ¤mnandet av informationen kan medfÃ¶ra allvarlig fara fÃ¶r den registrerades hÃ¤lsa eller vÃ¥rd eller fÃ¶r den registrerades eller nÃ¥gon annans rÃ¤ttigheter, eller</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>personuppgifterna anvÃ¤nds fÃ¶r tillsyns- och kontrolluppgifter och det fÃ¶r att trygga ett viktigt ekonomiskt eller finansiellt intresse fÃ¶r Finland eller Europeiska unionen Ã¤r nÃ¶dvÃ¤ndigt att informationen inte lÃ¤mnas.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_2">
+                            <content>
+                                <p>Om endast en del av de uppgifter som gÃ¤ller den registrerade Ã¤r sÃ¥dana att de enligt 1Â mom. inte omfattas av rÃ¤tten enligt artikel 15 i dataskyddsfÃ¶rordningen, har den registrerade rÃ¤tt att fÃ¥ tillgÃ¥ng till de Ã¶vriga uppgifter som rÃ¶r honom eller henne.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_3">
+                            <content>
+                                <p>Den registrerade ska underrÃ¤ttas om orsakerna till begrÃ¤nsningen, om detta inte Ã¤ventyrar syftet med begrÃ¤nsningen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_4">
+                            <content>
+                                <p>Om den registrerade inte har rÃ¤tt att bekanta sig med uppgifter som samlats in om honom eller henne, ska de uppgifter som avses i artikel 15.1 i dataskyddsfÃ¶rordningen lÃ¤mnas till dataombudsmannen pÃ¥ begÃ¤ran av den registrerade.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_6">
+                    <num>6 kap.</num>
+                    <heading>SÃ¤rskilda bestÃ¤mmelser</heading>
+                    <section eId="chp_6__sec_35">
+                        <num>35 Â§</num>
+                        <heading>Tystnadsplikt</heading>
+                        <subsection eId="chp_6__sec_35__subsec_1">
+                            <content>
+                                <p>Den som vid utfÃ¶randet av Ã¥tgÃ¤rder som har samband med behandlingen av personuppgifter har fÃ¥tt kÃ¤nnedom om nÃ¥got som gÃ¤ller en annan persons egenskaper, personliga fÃ¶rhÃ¥llanden, ekonomiska stÃ¤llning eller nÃ¥gon annans fÃ¶retagshemligheter fÃ¥r inte obehÃ¶rigen fÃ¶r utomstÃ¥ende rÃ¶ja de uppgifter som han eller hon erhÃ¥llit pÃ¥ detta sÃ¤tt eller anvÃ¤nda uppgifterna fÃ¶r sin egen eller nÃ¥gon annans vinning eller fÃ¶r att skada nÃ¥gon annan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_36">
+                        <num>36 Â§</num>
+                        <heading>Skydd fÃ¶r rapportÃ¶rers identitet</heading>
+                        <subsection eId="chp_6__sec_36__subsec_1">
+                            <content>
+                                <p>NÃ¤r en fysisk person har rapporterat till dataombudsmannen om en misstÃ¤nkt Ã¶vertrÃ¤delse av bestÃ¤mmelser som omfattas av dataombudsmannens tillsyn, ska rapportÃ¶rens identitet hÃ¥llas hemlig, om det utifrÃ¥n omstÃ¤ndigheterna kan bedÃ¶mas vara till nackdel fÃ¶r rapportÃ¶ren att hans eller hennes identitet rÃ¶js.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_37">
+                        <num>37 Â§</num>
+                        <heading>IkrafttrÃ¤dande</heading>
+                        <subsection eId="chp_6__sec_37__subsec_1">
+                            <content>
+                                <p>Denna lag trÃ¤der i kraft den 1 januari 2019.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_37__subsec_2">
+                            <content>
+                                <p>Genom denna lag upphÃ¤vs personuppgiftslagen (523/1999) och lagen om datasekretessnÃ¤mnden och dataombudsmannen (389/1994).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_38">
+                        <num>38 Â§</num>
+                        <heading>ÃvergÃ¥ngsbestÃ¤mmelser</heading>
+                        <subsection eId="chp_6__sec_38__subsec_1">
+                            <content>
+                                <p>Giltigheten av de tillstÃ¥nd som beviljats av datasekretessnÃ¤mnden upphÃ¶r vid ikrafttrÃ¤dandet av denna lag. Ãrenden som fÃ¶re ikrafttrÃ¤dandet av denna lag blivit anhÃ¤ngiga i datasekretessnÃ¤mnden fÃ¶rfaller vid ikrafttrÃ¤dandet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_2">
+                            <content>
+                                <p>PÃ¥ ett vid ikrafttrÃ¤dandet av denna lag anhÃ¤ngigt Ã¤rende som gÃ¤ller en anmÃ¤lan till dataombudsmannen tillÃ¤mpas de bestÃ¤mmelser i 36 och 37 Â§ i personuppgiftslagen som gÃ¤ller anmÃ¤lningsplikt och hur en anmÃ¤lan ska gÃ¶ras.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_3">
+                            <content>
+                                <p>PÃ¥ ett vid ikrafttrÃ¤dandet av denna lag anhÃ¤ngigt Ã¤rende som gÃ¤ller utÃ¶vande av rÃ¤tten till insyn och rÃ¤ttelse av personuppgifter tillÃ¤mpas inte de bestÃ¤mmelser i artiklarna 12 och 15â18 i dataskyddsfÃ¶rordningen enligt vilka den personuppgiftsansvarige Ã¥lÃ¤ggs mer omfattande skyldigheter Ã¤n vad den registeransvarige hade enligt de bestÃ¤mmelser som gÃ¤llde vid ikrafttrÃ¤dandet av denna lag, om det med avseende pÃ¥ den personuppgiftsansvarige skulle vara oskÃ¤ligt att tillÃ¤mpaÂ de nÃ¤mnda bestÃ¤mmelserna i dataskyddsfÃ¶rordningen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_4">
+                            <content>
+                                <p>Vid Ã¶verklagande av beslut som datasekretessnÃ¤mnden och dataombudsmannen fattat fÃ¶re ikrafttrÃ¤dandet av denna lag tillÃ¤mpas de bestÃ¤mmelser som gÃ¤llde vid ikrafttrÃ¤dandet. PÃ¥ extraordinÃ¤rt Ã¤ndringssÃ¶kande tillÃ¤mpas de bestÃ¤mmelser som gÃ¤llde vid ikrafttrÃ¤dandet av denna lag dock endast om Ã¤ndringssÃ¶kandet inletts fÃ¶re ikrafttrÃ¤dandet.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_5">
+                            <content>
+                                <p>Om en gÃ¤rning som orsakat skada har begÃ¥tts fÃ¶re ikrafttrÃ¤dandet av denna lag tillÃ¤mpas de bestÃ¤mmelser som gÃ¤llde vid ikrafttrÃ¤dandet pÃ¥ skyldigheten att ersÃ¤tta skadan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+            </hcontainer>
+            <hcontainer finlex:outline="FÃ¶rarbeten och signaturer" name="conclusions">
+                <hcontainer finlex:outline="FÃ¶rarbeten" name="preliminaryWork">
+                    <content>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2018/9">RP 9/2018</ref>
+                        </p>
+                        <p>FvUB 13/2018</p>
+                        <p>RSv 108/2018</p>
+                        <p>Europaparlamentets och rÃ¥dets fÃ¶rordning (EU) nr 679/2016 (32016R0679); EUT L 119, 4.5.2016, s. 1</p>
+                    </content>
+                </hcontainer>
+                <hcontainer finlex:outline="Signaturer" name="signatures">
+                    <content>
+                        <p>Helsingfors den 5 december 2018</p>
+                        <p>
+                            <signature>
+                                <role refersTo="">Republikens President</role>
+                                <person refersTo="">Sauli NiinistÃ¶</person>
+                            </signature>
+                            <signature>
+                                <role refersTo="">Justitieminister</role>
+                                <person refersTo="">Antti HÃ¤kkÃ¤nen</person>
+                            </signature>
+                        </p>
+                    </content>
+                </hcontainer>
+            </hcontainer>
+        </body>
+    </act>
+</akomaNtoso>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:finlex="http://data.finlex.fi/schema/finlex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <act contains="originalVersion" name="main">
+        <meta>
+            <identification source="#organization_fi.finlex">
+                <FRBRWork>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRcountry value="fi"/>
+                    <FRBRsubtype value="statute"/>
+                    <FRBRnumber value="1050"/>
+                    <FRBRprescriptive value="true"/>
+                    <FRBRauthoritative value="true"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/swe@/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/swe@"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/swe"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRlanguage language="swe"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/swe@/!main.xml"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/swe@.akn"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/swe/pdf"/>
+                    <FRBRdate date="2025-09-05" name="dateProduced"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_editor" href="#organization_fi.finlex"/>
+                    <FRBRformat value="pdf"/>
+                </FRBRManifestation>
+            </identification>
+            <references source="#organization_fi.finlex">
+                <TLCOrganization eId="organization_fi.finlex" href="/akn/ontology/organization/fi.finlex" showAs="Finlex"/>
+                <TLCRole eId="role_author" href="/akn/ontology/role/author" showAs="TekijÃ¤"/>
+                <TLCRole eId="role_editor" href="/akn/ontology/role/editor" showAs="Toimittaja"/>
+                <TLCConcept eId="act" href="/akn/ontology/concept/statute/type-statute.act" showAs="Lag"/>
+                <TLCConcept eId="new-statute" href="/akn/ontology/concept/statute/category-statute.new-statute" showAs="Uusi sÃ¤Ã¤dÃ¶s"/>
+            </references>
+            <proprietary source="#organization_fi.finlex">
+                <finlex:typeStatute refersTo="#act"/>
+                <finlex:categoryStatute refersTo="#new-statute"/>
+                <finlex:documentYear>2018</finlex:documentYear>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docNumber>1050/2018</docNumber>
+                <docTitle>Dataskyddslag</docTitle>
+            </p>
+        </preface>
+        <body>
+            <componentRef showAs="main.pdf" src="main.pdf"/>
+        </body>
+    </act>
+</akomaNtoso>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:finlex="http://data.finlex.fi/schema/finlex" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <act contains="originalVersion" name="main">
+        <meta>
+            <identification source="#organization_fi.finlex">
+                <FRBRWork>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRcountry value="fi"/>
+                    <FRBRsubtype value="statute"/>
+                    <FRBRnumber value="1050"/>
+                    <FRBRprescriptive value="true"/>
+                    <FRBRauthoritative value="true"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/fin@/!main"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/fin@"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/fin"/>
+                    <FRBRdate date="2018-12-05" name="dateIssued"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_author" href="#organization_fi.parliament"/>
+                    <FRBRlanguage language="fin"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/fi/act/statute/2018/1050/fin@/!main.xml"/>
+                    <FRBRuri value="/akn/fi/act/statute/2018/1050/fin@.akn"/>
+                    <FRBRalias name="eli" value="http://data.finlex.fi/eli/sd/2018/1050/alkup/fin/xml"/>
+                    <FRBRdate date="2025-09-05" name="dateProduced"/>
+                    <FRBRdate date="2018-12-10" name="datePublished"/>
+                    <FRBRauthor as="#role_editor" href="#organization_fi.finlex"/>
+                    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+            <references source="#organization_fi.finlex">
+                <TLCOrganization eId="organization_fi.finlex" href="/akn/ontology/organization/fi.finlex" showAs="Finlex"/>
+                <TLCRole eId="role_author" href="/akn/ontology/role/author" showAs="TekijÃ¤"/>
+                <TLCRole eId="role_editor" href="/akn/ontology/role/editor" showAs="Toimittaja"/>
+                <TLCConcept eId="act" href="/akn/ontology/concept/statute/type-statute.act" showAs="Laki"/>
+                <TLCConcept eId="new-statute" href="/akn/ontology/concept/statute/category-statute.new-statute" showAs="Uusi sÃ¤Ã¤dÃ¶s"/>
+            </references>
+            <proprietary source="#organization_fi.finlex">
+                <finlex:typeStatute refersTo="#act"/>
+                <finlex:categoryStatute refersTo="#new-statute"/>
+                <finlex:documentYear>2018</finlex:documentYear>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docNumber>1050/2018</docNumber>
+                <docTitle>Tietosuojalaki</docTitle>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="enactingClause">
+                <p>Eduskunnan pÃ¤Ã¤tÃ¶ksen mukaisesti sÃ¤Ã¤detÃ¤Ã¤n:</p>
+            </formula>
+        </preamble>
+        <body>
+            <hcontainer finlex:outline="SÃ¤Ã¤dÃ¶ksen teksti" name="statuteProvisionsWrapper">
+                <chapter eId="chp_1">
+                    <num>1 luku</num>
+                    <heading>Yleiset sÃ¤Ã¤nnÃ¶kset</heading>
+                    <section eId="chp_1__sec_1">
+                        <num>1 Â§</num>
+                        <heading>Lain tarkoitus</heading>
+                        <subsection eId="chp_1__sec_1__subsec_1">
+                            <content>
+                                <p>
+                                    TÃ¤llÃ¤ lailla tÃ¤smennetÃ¤Ã¤n ja tÃ¤ydennetÃ¤Ã¤n luonnollisten henkilÃ¶iden suojelusta henkilÃ¶tietojen kÃ¤sittelyssÃ¤ sekÃ¤ nÃ¤iden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679 (yleinen tietosuoja-asetus), jÃ¤ljempÃ¤nÃ¤ 
+                                    <i>tietosuoja-asetus</i>, ja sen kansallista soveltamista.
+                                </p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_2">
+                        <num>2 Â§</num>
+                        <heading>Soveltamisala</heading>
+                        <subsection eId="chp_1__sec_2__subsec_1">
+                            <content>
+                                <p>TÃ¤tÃ¤ lakia sovelletaan tietosuoja-asetuksen 2 artiklan soveltamisalan mukaisesti. TÃ¤tÃ¤ lakia ja tietosuoja-asetusta sovelletaan lisÃ¤ksi, lukuun ottamatta asetuksen 56 artiklaa ja VII lukua, sellaiseen henkilÃ¶tietojen kÃ¤sittelyyn, jota suoritetaan mainitun 2 artiklan 2Â kohdan a ja b alakohdassa tarkoitetun toiminnan yhteydessÃ¤, jollei muualla laissa toisin sÃ¤Ã¤detÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_2">
+                            <content>
+                                <p>TÃ¤tÃ¤ lakia ei sovelleta eduskunnan valtiopÃ¤ivÃ¤toimintaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_2__subsec_3">
+                            <content>
+                                <p>TÃ¤tÃ¤ lakia ei sovelleta sellaiseen henkilÃ¶tietojen kÃ¤sittelyyn, josta sÃ¤Ã¤detÃ¤Ã¤n henkilÃ¶tietojen kÃ¤sittelystÃ¤ rikosasioissa ja kansallisen turvallisuuden yllÃ¤pitÃ¤misen yhteydessÃ¤ annetussa laissa (1054/2018).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_1__sec_3">
+                        <num>3 Â§</num>
+                        <heading>Sovellettava laki</heading>
+                        <subsection eId="chp_1__sec_3__subsec_1">
+                            <content>
+                                <p>HenkilÃ¶tietojen kÃ¤sittelyyn, joka tapahtuu Euroopan unionin alueella sijaitsevaan rekisterinpitÃ¤jÃ¤n tai henkilÃ¶tietojen kÃ¤sittelijÃ¤n toimipaikkaan liittyvÃ¤n toiminnan yhteydessÃ¤, sovelletaan Suomen lakia, jos rekisterinpitÃ¤jÃ¤n toimipaikka sijaitsee Suomessa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_1__sec_3__subsec_2">
+                            <content>
+                                <p>Jos henkilÃ¶tietojen kÃ¤sittelyyn sovelletaan vieraan valtion lakia ja sen nojalla poiketaan tietosuoja-asetuksen 89Â artiklan 2 kohdan mukaisesti rekisterÃ¶idyn suojaksi sÃ¤Ã¤detyistÃ¤ oikeuksista, jÃ¤ljempÃ¤nÃ¤ 31 Â§:ssÃ¤ rekisterÃ¶idyn suojaksi sÃ¤Ã¤dettyjÃ¤ suojatoimia on kuitenkin noudatettava lainvalinnasta riippumatta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_2">
+                    <num>2 luku</num>
+                    <heading>KÃ¤sittelyn oikeusperuste erÃ¤issÃ¤ tapauksissa</heading>
+                    <section eId="chp_2__sec_4">
+                        <num>4 Â§</num>
+                        <heading>KÃ¤sittelyn lainmukaisuus</heading>
+                        <subsection eId="chp_2__sec_4__subsec_1">
+                            <intro eId="chp_2__sec_4__subsec_1__intro">
+                                <p>HenkilÃ¶tietoja saa kÃ¤sitellÃ¤ tietosuoja-asetuksen 6 artiklan 1 kohdan e alakohdan mukaisesti, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>kysymys on henkilÃ¶n asemaa, tehtÃ¤viÃ¤ sekÃ¤ niiden hoitoa julkisyhteisÃ¶ssÃ¤, elinkeinoelÃ¤mÃ¤ssÃ¤, jÃ¤rjestÃ¶toiminnassa tai muussa vastaavassa toiminnassa kuvaavista tiedoista siltÃ¤ osin kuin kÃ¤sittelyn tavoite on yleisen edun mukainen ja kÃ¤sittely on oikeasuhtaista sillÃ¤ tavoiteltuun oikeutettuun pÃ¤Ã¤mÃ¤Ã¤rÃ¤Ã¤n nÃ¤hden;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>kÃ¤sittely on tarpeen ja oikeasuhtaista viranomaisen toiminnassa yleisen edun mukaisen tehtÃ¤vÃ¤n suorittamiseksi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>kÃ¤sittely on tarpeen tieteellistÃ¤ tai historiallista tutkimusta taikka tilastointia varten ja se on oikeasuhtaista sillÃ¤ tavoiteltuun yleisen edun mukaiseen tavoitteeseen nÃ¤hden; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_4__subsec_1__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>henkilÃ¶tietoja sisÃ¤ltÃ¤vien tutkimusaineistojen, kulttuuriperintÃ¶aineistojen sekÃ¤ nÃ¤iden kuvailutietoihin liittyvien henkilÃ¶tietojen kÃ¤sittely arkistointitarkoituksessa on tarpeen ja oikeasuhtaista sillÃ¤ tavoiteltuun yleisen edun mukaiseen tavoitteeseen ja rekisterÃ¶idyn oikeuksiin nÃ¤hden.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_5">
+                        <num>5 Â§</num>
+                        <heading>Tietoyhteiskunnan palvelujen tarjoamiseen lapselle sovellettava ikÃ¤raja</heading>
+                        <subsection eId="chp_2__sec_5__subsec_1">
+                            <content>
+                                <p>Kun henkilÃ¶tietoja kÃ¤sitellÃ¤Ã¤n tietosuoja-asetuksen 6 artiklan 1 kohdan a alakohdassa tarkoitetun suostumuksen perusteella ja kyseessÃ¤ on tietosuoja-asetuksen 4 artiklan 25Â kohdassa tarkoitettujen tietoyhteiskunnan palvelujen tarjoaminen suoraan lapselle, lapsen henkilÃ¶tietojen kÃ¤sittely on lainmukaista, jos lapsi on vÃ¤hintÃ¤Ã¤n 13-vuotias.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_6">
+                        <num>6 Â§</num>
+                        <heading>ErityisiÃ¤ henkilÃ¶tietoryhmiÃ¤ koskeva kÃ¤sittely</heading>
+                        <subsection eId="chp_2__sec_6__subsec_1">
+                            <intro eId="chp_2__sec_6__subsec_1__intro">
+                                <p>Tietosuoja-asetuksen 9 artiklan 1 kohtaa ei sovelleta:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>vakuutuslaitoksen kÃ¤sitellessÃ¤ vakuutustoiminnassa saatuja tietoja vakuutetun ja korvauksenhakijan terveydentilasta, sairaudesta tai vammaisuudesta taikka sellaista hÃ¤neen kohdistetuista hoitotoimenpiteistÃ¤ tai niihin verrattavista toimista, jotka ovat tarpeen vakuutuslaitoksen vastuun selvittÃ¤miseksi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>tietojen kÃ¤sittelyyn, josta sÃ¤Ã¤detÃ¤Ã¤n laissa tai joka johtuu vÃ¤littÃ¶mÃ¤sti rekisterinpitÃ¤jÃ¤lle laissa sÃ¤Ã¤detystÃ¤ tehtÃ¤vÃ¤stÃ¤;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>ammattiliittoon kuulumista koskevaan tiedon kÃ¤sittelyyn, joka on tarpeen rekisterinpitÃ¤jÃ¤n erityisten oikeuksien ja velvoitteiden noudattamiseksi tyÃ¶oikeuden alalla;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>kun terveydenhuollon palveluntarjoaja jÃ¤rjestÃ¤essÃ¤Ã¤n tai tuottaessaan palveluja kÃ¤sittelee tÃ¤ssÃ¤ toiminnassa saamiaan tietoja henkilÃ¶n terveydentilasta tai vammaisuudesta taikka hÃ¤nen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisterÃ¶idyn hoidon kannalta vÃ¤lttÃ¤mÃ¤ttÃ¶miÃ¤ tietoja;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_5">
+                                <num>5)â</num>
+                                <content>
+                                    <p>kun sosiaalihuollon palveluntarjoaja jÃ¤rjestÃ¤essÃ¤Ã¤n tai tuottaessaan palveluja tai myÃ¶ntÃ¤essÃ¤Ã¤n etuuksia kÃ¤sittelee tÃ¤ssÃ¤ toiminnassa saamiaan tai tuottamiaan tietoja henkilÃ¶n terveydentilasta tai vammaisuudesta taikka hÃ¤nen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisterÃ¶idyn palvelun tai etuuden myÃ¶ntÃ¤misen kannalta vÃ¤lttÃ¤mÃ¤ttÃ¶miÃ¤ tietoja;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_6">
+                                <num>6)â</num>
+                                <content>
+                                    <p>terveyttÃ¤ koskevien ja geneettisten tietojen kÃ¤sittelyyn antidopingtyÃ¶ssÃ¤ ja vammaisurheilun yhteydessÃ¤ siltÃ¤ osin kuin nÃ¤iden tietojen kÃ¤sittely on vÃ¤lttÃ¤mÃ¤tÃ¶ntÃ¤ antidopingtyÃ¶n tai vammaisten ja pitkÃ¤aikaissairaiden urheilun mahdollistamiseksi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_7">
+                                <num>7)â</num>
+                                <content>
+                                    <p>tieteellistÃ¤ tai historiallista tutkimusta taikka tilastointia varten tehtÃ¤vÃ¤Ã¤n tietojen kÃ¤sittelyyn;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_1__para_8">
+                                <num>8)â</num>
+                                <content>
+                                    <p>tutkimus- ja kulttuuriperintÃ¶aineistojen kÃ¤sittelyyn yleishyÃ¶dyllisessÃ¤ arkistointitarkoituksessa geneettisiÃ¤ tietoja lukuun ottamatta.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_6__subsec_2">
+                            <intro eId="chp_2__sec_6__subsec_2__intro">
+                                <p>KÃ¤siteltÃ¤essÃ¤ henkilÃ¶tietoja 1 momentissa tarkoitetussa tilanteessa rekisterinpitÃ¤jÃ¤n ja henkilÃ¶tietojen kÃ¤sittelijÃ¤n on toteutettava asianmukaiset ja erityiset toimenpiteet rekisterÃ¶idyn oikeuksien suojaamiseksi. NÃ¤itÃ¤ toimenpiteitÃ¤ ovat:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>toimenpiteet, joilla on jÃ¤lkeenpÃ¤in mahdollista varmistaa ja todentaa kenen toimesta henkilÃ¶tietoja on tallennettu, muutettu tai siirretty;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>toimenpiteet, joilla parannetaan henkilÃ¶tietoja kÃ¤sittelevÃ¤n henkilÃ¶stÃ¶n osaamista;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>tietosuojavastaavan nimittÃ¤minen;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_4">
+                                <num>4)â</num>
+                                <content>
+                                    <p>rekisterinpitÃ¤jÃ¤n ja kÃ¤sittelijÃ¤n sisÃ¤iset toimenpiteet, joilla estetÃ¤Ã¤n pÃ¤Ã¤sy henkilÃ¶tietoihin;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_5">
+                                <num>5)â</num>
+                                <content>
+                                    <p>henkilÃ¶tietojen pseudonymisointi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_6">
+                                <num>6)â</num>
+                                <content>
+                                    <p>henkilÃ¶tietojen salaaminen;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_7">
+                                <num>7)â</num>
+                                <content>
+                                    <p>toimenpiteet, joilla kÃ¤sittelyjÃ¤rjestelmien ja henkilÃ¶tietojen kÃ¤sittelyyn liittyvien palveluiden jatkuva luottamuksellisuus, eheys, kÃ¤ytettÃ¤vyys ja vikasietoisuus taataan, mukaan lukien kyky palauttaa nopeasti tietojen saatavuus ja pÃ¤Ã¤sy tietoihin fyysisen tai teknisen vian sattuessa;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_8">
+                                <num>8)â</num>
+                                <content>
+                                    <p>menettely, jolla testataan, tutkitaan ja arvioidaan sÃ¤Ã¤nnÃ¶llisesti teknisten ja organisatoristen toimenpiteiden tehokkuutta tietojenkÃ¤sittelyn turvallisuuden varmistamiseksi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_9">
+                                <num>9)â</num>
+                                <content>
+                                    <p>erityiset menettelysÃ¤Ã¤nnÃ¶t, joilla varmistetaan tietosuoja-asetuksen ja tÃ¤mÃ¤n lain noudattaminen siirrettÃ¤essÃ¤ henkilÃ¶tietoja tai kÃ¤siteltÃ¤essÃ¤ henkilÃ¶tietoja muuhun tarkoitukseen;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_10">
+                                <num>10)â</num>
+                                <content>
+                                    <p>tietosuoja-asetuksen 35 artiklan mukainen tietosuojaa koskevan vaikutustenarvioinnin laatiminen;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_6__subsec_2__para_11">
+                                <num>11)â</num>
+                                <content>
+                                    <p>muut tekniset, menettelylliset ja organisatoriset toimenpiteet.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <section eId="chp_2__sec_7">
+                        <num>7 Â§</num>
+                        <heading>Rikostuomioihin ja rikkomuksiin liittyvÃ¤ kÃ¤sittely</heading>
+                        <subsection eId="chp_2__sec_7__subsec_1">
+                            <intro eId="chp_2__sec_7__subsec_1__intro">
+                                <p>Tietosuoja-asetuksen 10 artiklassa tarkoitettuihin rikostuomioihin ja rikkomuksiin tai niihin liittyviin turvaamistoimiin liittyviÃ¤ henkilÃ¶tietoja saa kÃ¤sitellÃ¤, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_2__sec_7__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>kÃ¤sittely on tarpeen oikeusvaateen selvittÃ¤miseksi, laatimiseksi, esittÃ¤miseksi, puolustamiseksi tai ratkaisemiseksi; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_2__sec_7__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>tietoja kÃ¤sitellÃ¤Ã¤n 6 Â§:n 1 momentin 1, 2 tai 7 kohdassa sÃ¤Ã¤detyssÃ¤ tarkoituksessa.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_2__sec_7__subsec_2">
+                            <content>
+                                <p>MitÃ¤ 6 Â§:n 2 momentissa sÃ¤Ã¤detÃ¤Ã¤n toimenpiteistÃ¤ rekisterÃ¶idyn oikeuksien suojaamiseksi, sovelletaan myÃ¶s kÃ¤siteltÃ¤essÃ¤ tÃ¤mÃ¤n pykÃ¤lÃ¤n 1 momentissa tarkoitettuja henkilÃ¶tietoja.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_3">
+                    <num>3 luku</num>
+                    <heading>Valvontaviranomainen</heading>
+                    <section eId="chp_3__sec_8">
+                        <num>8 Â§</num>
+                        <heading>Tietosuojavaltuutettu</heading>
+                        <subsection eId="chp_3__sec_8__subsec_1">
+                            <content>
+                                <p>Tietosuoja-asetuksessa tarkoitettuna kansallisena valvontaviranomaisena oikeusministeriÃ¶n yhteydessÃ¤ on tietosuojavaltuutettu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_8__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutettu on toiminnassaan itsenÃ¤inen ja riippumaton.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_9">
+                        <num>9 Â§</num>
+                        <heading>Tietosuojavaltuutetun toimisto</heading>
+                        <subsection eId="chp_3__sec_9__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetulla on toimisto, jossa on vÃ¤hintÃ¤Ã¤n kaksi apulaistietosuojavaltuutettua sekÃ¤ tarpeellinen mÃ¤Ã¤rÃ¤ tietosuojavaltuutetun tehtÃ¤vÃ¤alaan perehtyneitÃ¤ esittelijÃ¶itÃ¤ ja muuta henkilÃ¶stÃ¶Ã¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_9__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutettu nimittÃ¤Ã¤ toimiston virkamiehet ja ottaa palvelukseen toimiston muun henkilÃ¶stÃ¶n.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_9__subsec_3">
+                            <content>
+                                <p>Tietosuojavaltuutettu hyvÃ¤ksyy toimiston tyÃ¶jÃ¤rjestyksen.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_10">
+                        <num>10 Â§</num>
+                        <heading>Kelpoisuusvaatimukset ja nimitysperusteet</heading>
+                        <subsection eId="chp_3__sec_10__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun kelpoisuusvaatimuksena on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvÃ¤lisen ja vertailevan oikeustieteen maisterin tutkinto, hyvÃ¤ perehtyneisyys henkilÃ¶tietojen suojaa koskeviin asioihin sekÃ¤ kÃ¤ytÃ¤nnÃ¶ssÃ¤ osoitettu johtamistaito. LisÃ¤ksi edellytetÃ¤Ã¤n kykyÃ¤ hoitaa kansainvÃ¤lisiÃ¤ tehtÃ¤viÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_11">
+                        <num>11 Â§</num>
+                        <heading>NimittÃ¤minen ja toimikausi</heading>
+                        <subsection eId="chp_3__sec_11__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun nimittÃ¤Ã¤ valtioneuvosto viideksi vuodeksi kerrallaan.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_11__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutetuksi ja apulaistietosuojavaltuutetuksi nimitetty vapautuu hoitamasta muuta virkaa siksi ajaksi, jona hÃ¤n toimii tietosuojavaltuutettuna tai apulaistietosuojavaltuutettuna.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_12">
+                        <num>12 Â§</num>
+                        <heading>Asiantuntijalautakunta</heading>
+                        <subsection eId="chp_3__sec_12__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun toimistossa on asiantuntijalautakunta, johon kuuluu puheenjohtaja, varapuheenjohtaja ja kolme muuta jÃ¤sentÃ¤. Kullakin heistÃ¤ on henkilÃ¶kohtainen varajÃ¤sen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_2">
+                            <content>
+                                <p>Valtioneuvosto asettaa lautakunnan kolmen vuoden toimikaudeksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_3">
+                            <content>
+                                <p>Lautakunnan puheenjohtajan ja varapuheenjohtajan on oltava oikeustieteen muun ylemmÃ¤n korkeakoulututkinnon kuin kansainvÃ¤lisen ja vertailevan oikeustieteen maisterin tutkinnon suorittanut henkilÃ¶, jolla on hyvÃ¤ perehtyneisyys henkilÃ¶tietojen suojaa koskeviin asioihin ja muu tehtÃ¤vÃ¤n hoidon edellyttÃ¤mÃ¤ pÃ¤tevyys. Lautakunnan muulta jÃ¤seneltÃ¤ edellytetÃ¤Ã¤n perehtyneisyyttÃ¤ henkilÃ¶tietojen suojaa koskeviin asioihin ja tehtÃ¤vÃ¤n hoidon edellyttÃ¤mÃ¤Ã¤ muuta pÃ¤tevyyttÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_12__subsec_4">
+                            <content>
+                                <p>Lautakunnan jÃ¤seneen sovelletaan rikosoikeudellista virkavastuuta koskevia sÃ¤Ã¤nnÃ¶ksiÃ¤ hÃ¤nen hoitaessaan tÃ¤ssÃ¤ laissa tarkoitettuja tehtÃ¤viÃ¤. Vahingonkorvausvastuusta sÃ¤Ã¤detÃ¤Ã¤n vahingonkorvauslaissa (412/1974). Lautakunnan jÃ¤senille ja varajÃ¤senille maksetaan tehtÃ¤vÃ¤stÃ¤Ã¤n palkkio. OikeusministeriÃ¶ vahvistaa palkkioiden mÃ¤Ã¤rÃ¤t.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_13">
+                        <num>13 Â§</num>
+                        <heading>Selvitys sidonnaisuuksista</heading>
+                        <subsection eId="chp_3__sec_13__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun on annettava valtion virkamieslain (750/1994) 8Â a Â§:ssÃ¤ tarkoitettu selvitys sidonnaisuuksistaan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_14">
+                        <num>14 Â§</num>
+                        <heading>Tietosuojavaltuutetun tehtÃ¤vÃ¤t ja toimivaltuudet</heading>
+                        <subsection eId="chp_3__sec_14__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun Â Â tehtÃ¤vistÃ¤ Â Â ja Â Â toimivaltuuksista Â Â sÃ¤Ã¤detÃ¤Ã¤n tietosuoja-asetuksen 55â59Â artiklassa. Tietosuojavaltuutetulla on myÃ¶s muita tÃ¤ssÃ¤ tai muussa laissa sÃ¤Ã¤dettyjÃ¤ tehtÃ¤viÃ¤ ja toimivaltuuksia.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutettu ei valvo valtioneuvoston oikeuskanslerin eikÃ¤ eduskunnan oikeusasiamiehen toimintaa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_3">
+                            <content>
+                                <p>Tietosuojavaltuutettu edustaa Suomea Euroopan tietosuojaneuvostossa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_4">
+                            <content>
+                                <p>Tietosuojavaltuutettu akkreditoi tietosuoja-asetuksen 43 artiklassa tarkoitetun sertifiointielimen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_14__subsec_5">
+                            <content>
+                                <p>Tietosuojavaltuutettu laatii vuosittain tietosuoja-asetuksen 59 artiklassa tarkoitetun toimintakertomuksen, joka toimitetaan eduskunnalle ja valtioneuvostolle. Toimintakertomus on pidettÃ¤vÃ¤ yleisesti saatavilla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_15">
+                        <num>15 Â§</num>
+                        <heading>Tietosuojavaltuutetun pÃ¤Ã¤tÃ¶ksenteko</heading>
+                        <subsection eId="chp_3__sec_15__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutettu ratkaisee asiat esittelystÃ¤, jollei hÃ¤n yksittÃ¤istapauksessa toisin pÃ¤Ã¤tÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_16">
+                        <num>16 Â§</num>
+                        <heading>Apulaistietosuojavaltuutetun tehtÃ¤vÃ¤t ja toimivaltuudet</heading>
+                        <subsection eId="chp_3__sec_16__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun vÃ¤lisestÃ¤ tehtÃ¤vien jaosta mÃ¤Ã¤rÃ¤tÃ¤Ã¤n tietosuojavaltuutetun toimiston tyÃ¶jÃ¤rjestyksessÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_16__subsec_2">
+                            <content>
+                                <p>Apulaistietosuojavaltuutetulla on tehtÃ¤viensÃ¤ hoidossa samat toimivaltuudet kuin tietosuojavaltuutetulla.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_17">
+                        <num>17 Â§</num>
+                        <heading>Asiantuntijalautakunnan tehtÃ¤vÃ¤t ja asioiden kÃ¤sittely</heading>
+                        <subsection eId="chp_3__sec_17__subsec_1">
+                            <content>
+                                <p>Asiantuntijalautakunnan tehtÃ¤vÃ¤nÃ¤ on tietosuojavaltuutetun pyynnÃ¶stÃ¤ antaa lausuntoja henkilÃ¶tietojen kÃ¤sittelyÃ¤ koskevan lainsÃ¤Ã¤dÃ¤nnÃ¶n soveltamiseen liittyvistÃ¤ merkittÃ¤vistÃ¤ kysymyksistÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_17__subsec_2">
+                            <content>
+                                <p>Lautakunta voi kuulla ulkopuolisia asiantuntijoita.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_17__subsec_3">
+                            <content>
+                                <p>Lautakunnan sihteerinÃ¤ toimii tietosuojavaltuutetun toimiston esittelijÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_18">
+                        <num>18 Â§</num>
+                        <heading>Tietosuojavaltuutetun tiedonsaanti- ja tarkastusoikeus</heading>
+                        <subsection eId="chp_3__sec_18__subsec_1">
+                            <content>
+                                <p>Sen lisÃ¤ksi, mitÃ¤ tietosuoja-asetuksen 58 artiklan 1 kohdassa sÃ¤Ã¤detÃ¤Ã¤n valvontaviranomaisen tiedonsaanti- ja tarkastusoikeudesta, tietosuojavaltuutetulla on oikeus salassapitosÃ¤Ã¤nnÃ¶sten estÃ¤mÃ¤ttÃ¤ saada maksutta tehtÃ¤viensÃ¤ hoidon kannalta tarpeelliset tiedot.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_18__subsec_2">
+                            <content>
+                                <p>PysyvÃ¤isluonteiseen asumiseen kÃ¤ytetyssÃ¤ tilassa tarkastuksen saa toimittaa vain, jos se on vÃ¤lttÃ¤mÃ¤tÃ¶ntÃ¤ tarkastuksen kohteena olevien seikkojen selvittÃ¤miseksi ja kyseessÃ¤ olevassa tapauksessa on olemassa perusteltu ja yksilÃ¶ity syy epÃ¤illÃ¤ henkilÃ¶tietojen kÃ¤sittelyÃ¤ koskevia sÃ¤Ã¤nnÃ¶ksiÃ¤ rikotun tai rikottavan tavalla, josta voi olla seuraamuksena hallinnollinen seuraamusmaksu tai rikoslaissa (39/1889) sÃ¤Ã¤detty rangaistus.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_19">
+                        <num>19 Â§</num>
+                        <heading>Asiantuntijoiden kÃ¤yttÃ¶</heading>
+                        <subsection eId="chp_3__sec_19__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutettu voi kuulla ulkopuolisia asiantuntijoita sekÃ¤ pyytÃ¤Ã¤ nÃ¤iltÃ¤ lausuntoja.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_3__sec_19__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutettu voi kÃ¤yttÃ¤Ã¤ toimivaltaansa kuuluvan tarkastuksen suorittamisessa apunaan ulkopuolisia asiantuntijoita. Asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia sÃ¤Ã¤nnÃ¶ksiÃ¤ hÃ¤nen suorittaessaan tÃ¤llaisia tehtÃ¤viÃ¤. Vahingonkorvausvastuusta sÃ¤Ã¤detÃ¤Ã¤n vahingonkorvauslaissa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_3__sec_20">
+                        <num>20 Â§</num>
+                        <heading>Virka-apu</heading>
+                        <subsection eId="chp_3__sec_20__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetulla on oikeus tehtÃ¤viensÃ¤ suorittamiseksi saada pyynnÃ¶stÃ¤ poliisilta virka-apua.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_4">
+                    <num>4 luku</num>
+                    <heading>Oikeusturva ja seuraamukset</heading>
+                    <section eId="chp_4__sec_21">
+                        <num>21 Â§</num>
+                        <heading>Oikeus saattaa asia tietosuojavaltuutetun kÃ¤siteltÃ¤vÃ¤ksi</heading>
+                        <subsection eId="chp_4__sec_21__subsec_1">
+                            <content>
+                                <p>RekisterÃ¶idyllÃ¤ on oikeus saattaa asia tietosuojavaltuutetun kÃ¤siteltÃ¤vÃ¤ksi, jos rekisterÃ¶ity katsoo, ettÃ¤ hÃ¤ntÃ¤ koskevien henkilÃ¶tietojen kÃ¤sittelyssÃ¤ rikotaan sitÃ¤ koskevaa lainsÃ¤Ã¤dÃ¤ntÃ¶Ã¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_21__subsec_2">
+                            <content>
+                                <p>Tietosuojavaltuutettu voi keskeyttÃ¤Ã¤ asian kÃ¤sittelyn, jos siihen liittyvÃ¤ asia on vireillÃ¤ tuomioistuimessa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_22">
+                        <num>22 Â§</num>
+                        <heading>Uhkasakko</heading>
+                        <subsection eId="chp_4__sec_22__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutettu voi asettaa tietosuoja-asetuksen 58 artiklan 2 kohdan câg ja j alakohdassa tarkoitetun pÃ¤Ã¤tÃ¶ksen ja tÃ¤mÃ¤n lain 18 Â§:n 1 momenttiin perustuvan tietojen luovuttamista koskevan mÃ¤Ã¤rÃ¤yksen tehosteeksi uhkasakon. Uhkasakon asettamisesta ja tuomitsemisesta maksettavaksi sÃ¤Ã¤detÃ¤Ã¤n uhkasakkolaissa (1113/1990).</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_22__subsec_2">
+                            <content>
+                                <p>Uhkasakkoa ei saa asettaa luonnolliselle henkilÃ¶lle 1 momentissa tarkoitetun tietojen luovuttamista koskevan mÃ¤Ã¤rÃ¤yksen tehosteeksi silloin, kun henkilÃ¶Ã¤ on aihetta epÃ¤illÃ¤ rikoksesta ja tiedot koskevat rikosepÃ¤ilyn kohteena olevaa asiaa.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_23">
+                        <num>23 Â§</num>
+                        <heading>Komission pÃ¤Ã¤tÃ¶kset</heading>
+                        <subsection eId="chp_4__sec_23__subsec_1">
+                            <content>
+                                <p>Jos tietosuojavaltuutettu katsoo sillÃ¤ vireillÃ¤ olevassa asiassa tarpeelliseksi selvittÃ¤Ã¤, onko tietosuoja-asetuksen 45 artiklassa tarkoitettu Euroopan komission pÃ¤Ã¤tÃ¶s tietosuojan tason riittÃ¤vyydestÃ¤ tietosuoja-asetuksen mukainen, tietosuojavaltuutettu voi hakemuksella saattaa ennakkoratkaisun pyytÃ¤mistÃ¤ koskevan asian Helsingin hallinto-oikeuden ratkaistavaksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_23__subsec_2">
+                            <content>
+                                <p>Hallinto-oikeuden pÃ¤Ã¤tÃ¶kseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeusÂ myÃ¶ntÃ¤Ã¤ valitusluvan.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_24">
+                        <num>24 Â§</num>
+                        <heading>Hallinnollinen seuraamusmaksu</heading>
+                        <subsection eId="chp_4__sec_24__subsec_1">
+                            <content>
+                                <p>
+                                    Tietosuoja-asetuksen 83 artiklassa sÃ¤Ã¤detyn hallinnollisen sakon (<i>hallinnollinen seuraamusmaksu</i>) mÃ¤Ã¤rÃ¤Ã¤ tietosuojavaltuutetun ja apulaistietosuojavaltuutettujen yhdessÃ¤ muodostama seuraamuskollegio. Tietosuojavaltuutettu toimii kollegion puheenjohtajana. Apulaistietosuojavaltuutetun ollessa estynyt voi hÃ¤nen sijaisenaan seuraamuskollegiossa toimia tietosuojavaltuutetun toimiston tyÃ¶jÃ¤rjestyksessÃ¤ mÃ¤Ã¤rÃ¤tty esittelijÃ¤. Kollegio on pÃ¤Ã¤tÃ¶svaltainen kolmijÃ¤senisenÃ¤.
+                                </p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_2">
+                            <content>
+                                <p>Kollegion pÃ¤Ã¤tÃ¶s tehdÃ¤Ã¤n esittelystÃ¤. PÃ¤Ã¤tÃ¶kseksi tulee se kanta, jota enemmistÃ¶ on kannattanut. ÃÃ¤nten mennessÃ¤ tasan pÃ¤Ã¤tÃ¶kseksi tulee se kanta, joka on lievempi sille, johon seuraamus kohdistuu.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_3">
+                            <content>
+                                <p>Seuraamusmaksu voidaan mÃ¤Ã¤rÃ¤tÃ¤ myÃ¶s tietosuoja-asetuksen 10 artiklan rikkomisesta noudattaen, mitÃ¤ tietosuoja-asetuksen 83 artiklan 5 kohdassa ja tÃ¤ssÃ¤ laissa sÃ¤Ã¤detÃ¤Ã¤n.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_4">
+                            <content>
+                                <p>Seuraamusmaksua ei voida mÃ¤Ã¤rÃ¤tÃ¤ valtion viranomaisille, valtion liikelaitoksille, kunnallisille viranomaisille, itsenÃ¤isille julkisoikeudellisille laitoksille, eduskunnan virastoille, tasavallan presidentin kanslialle eikÃ¤ Suomen evankelis-luterilaiselle kirkolle ja Suomen ortodoksiselle kirkolle eikÃ¤ niiden seurakunnille, seurakuntayhtymille ja muille elimille.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_5">
+                            <content>
+                                <p>Seuraamusmaksua ei saa mÃ¤Ã¤rÃ¤tÃ¤, jos on kulunut yli kymmenen vuotta siitÃ¤, kun rikkomus tai laiminlyÃ¶nti on tapahtunut. Jos rikkomus tai laiminlyÃ¶nti on ollut luonteeltaan jatkuvaa, kymmenen vuoden mÃ¤Ã¤rÃ¤aika lasketaan siitÃ¤, kun rikkomus tai laiminlyÃ¶nti on pÃ¤Ã¤ttynyt.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_24__subsec_6">
+                            <content>
+                                <p>Seuraamusmaksun tÃ¤ytÃ¤ntÃ¶Ã¶npanosta sÃ¤Ã¤detÃ¤Ã¤n sakon tÃ¤ytÃ¤ntÃ¶Ã¶npanosta annetussa laissa (672/2002). Seuraamusmaksu vanhenee viiden vuoden kuluttua sen mÃ¤Ã¤rÃ¤Ã¤mispÃ¤ivÃ¤stÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_25">
+                        <num>25 Â§</num>
+                        <heading>Muutoksenhaku</heading>
+                        <subsection eId="chp_4__sec_25__subsec_1">
+                            <content>
+                                <p>Tietosuojavaltuutetun ja apulaistietosuojavaltuutetun pÃ¤Ã¤tÃ¶kseen sekÃ¤ 24 Â§:n 1 momentissa sÃ¤Ã¤dettyyn pÃ¤Ã¤tÃ¶kseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkÃ¤yttÃ¶laissa (586/1996) sÃ¤Ã¤detÃ¤Ã¤n.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_25__subsec_2">
+                            <content>
+                                <p>Hallinto-oikeuden pÃ¤Ã¤tÃ¶kseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeusÂ myÃ¶ntÃ¤Ã¤ valitusluvan. MyÃ¶s tietosuojavaltuutettu saa hakea muutosta hallinto-oikeuden pÃ¤Ã¤tÃ¶kseen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_25__subsec_3">
+                            <content>
+                                <p>Tietosuojavaltuutetun tai apulaistietosuojavaltuutetun pÃ¤Ã¤tÃ¶ksessÃ¤ voidaan mÃ¤Ã¤rÃ¤tÃ¤, ettÃ¤ pÃ¤Ã¤tÃ¶stÃ¤ on noudatettava muutoksenhausta huolimatta, jollei valitusviranomainen toisin mÃ¤Ã¤rÃ¤Ã¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_4__sec_26">
+                        <num>26 Â§</num>
+                        <heading>RangaistussÃ¤Ã¤nnÃ¶kset</heading>
+                        <subsection eId="chp_4__sec_26__subsec_1">
+                            <content>
+                                <p>Rangaistus tietosuojarikoksesta sÃ¤Ã¤detÃ¤Ã¤n rikoslain 38 luvun 9 Â§:ssÃ¤. Rangaistus viestintÃ¤salaisuuden loukkauksesta ja tÃ¶rkeÃ¤stÃ¤ viestintÃ¤salaisuuden loukkauksesta sÃ¤Ã¤detÃ¤Ã¤n rikoslain 38Â luvun 3 ja 4 Â§:ssÃ¤ sekÃ¤ rangaistus tietomurrosta ja tÃ¶rkeÃ¤stÃ¤ tietomurrosta 38 luvun 8 ja 8Â a Â§:ssÃ¤. Rangaistus tÃ¤mÃ¤n lain 35 Â§:ssÃ¤ sÃ¤Ã¤detyn vaitiolovelvollisuuden ja 36 Â§:ssÃ¤ sÃ¤Ã¤detyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 1 tai 2 Â§:n mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 Â§:n mukaan tai siitÃ¤ muualla laissa sÃ¤Ã¤detÃ¤ ankarampaa rangaistusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_4__sec_26__subsec_2">
+                            <content>
+                                <p>Rikoslain 38 luvun 10 Â§:n 3 momentissa sÃ¤Ã¤detÃ¤Ã¤n syyttÃ¤jÃ¤n velvollisuudesta kuulla tietosuojavaltuutettua ennen tÃ¤mÃ¤n pykÃ¤lÃ¤n 1 momentissa mainittuja rikoksia koskevan syytteen nostamista samoin kuin tuomioistuimen velvollisuudesta varata tÃ¤llaista asiaa kÃ¤sitellessÃ¤Ã¤n tietosuojavaltuutetulle tilaisuus tulla kuulluksi.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_5">
+                    <num>5 luku</num>
+                    <heading>TietojenkÃ¤sittelyn erityistilanteet</heading>
+                    <section eId="chp_5__sec_27">
+                        <num>27 Â§</num>
+                        <heading>HenkilÃ¶tietojen kÃ¤sittely journalistisen, akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksiaÂ varten</heading>
+                        <subsection eId="chp_5__sec_27__subsec_1">
+                            <content>
+                                <p>Sananvapauden ja tiedonvÃ¤lityksen vapauden turvaamiseksi henkilÃ¶tietojen kÃ¤sittelyyn ainoastaanÂ journalistisia tarkoituksia varten tai akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksia varten ei sovelleta tietosuoja-asetuksen 5 artiklan 1 kohdan câe alakohtaa, 6Â Â jaÂ Â 7Â artiklaa,Â  9 Â ja Â 10 artiklaa, 11 artiklan 2 kohtaa, 12â22 artiklaa, 30 artiklaa, 34Â artiklan 1â3Â kohtaa, 35 ja 36 artiklaa, 56 artiklaa, 58 artiklan 2 kohdan f alakohtaa, 60â63 artiklaa ja 65â67 artiklaa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_27__subsec_2">
+                            <content>
+                                <p>Tietosuoja-asetuksen 27 artiklaa ei sovelleta sellaiseen henkilÃ¶tietojen kÃ¤sittelyyn, joka liittyy sananvapauden kÃ¤yttÃ¤misestÃ¤ joukkoviestinnÃ¤ssÃ¤ annetussa laissa (460/2003) sÃ¤Ã¤dettyyn toimintaan. Tietosuoja-asetuksen 44â50 artiklaa ei sovelleta, jos soveltaminen loukkaisi oikeutta sananvapauteen tai tiedonvÃ¤lityksen vapauteen.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_27__subsec_3">
+                            <content>
+                                <p>Sananvapauden ja tiedonvÃ¤lityksen vapauden turvaamiseksi henkilÃ¶tietojen kÃ¤sittelyyn ainoastaanÂ journalistisia tarkoituksia varten tai akateemisen, taiteellisen tai kirjallisen ilmaisun tarkoituksia varten sovelletaan tietosuoja-asetuksen 5 artiklan 1 kohdan a ja b alakohtaa ja 2Â kohtaa, 24â26 artiklaa, 31 artiklaa, 39 ja 40 artiklaa, 42 artiklaa, 57 ja 58 artiklaa, 64 artiklaa ja 70 artiklaa ainoastaan soveltuvin osin.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_28">
+                        <num>28 Â§</num>
+                        <heading>Julkisuusperiaate</heading>
+                        <subsection eId="chp_5__sec_28__subsec_1">
+                            <content>
+                                <p>Oikeuteen saada tieto ja muuhun henkilÃ¶tietojen luovuttamiseen viranomaisen henkilÃ¶rekisteristÃ¤ sovelletaan, mitÃ¤ viranomaisten toiminnan julkisuudesta sÃ¤Ã¤detÃ¤Ã¤n.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_29">
+                        <num>29 Â§</num>
+                        <heading>HenkilÃ¶tunnuksen kÃ¤sittely</heading>
+                        <subsection eId="chp_5__sec_29__subsec_1">
+                            <intro eId="chp_5__sec_29__subsec_1__intro">
+                                <p>HenkilÃ¶tunnusta saa kÃ¤sitellÃ¤ rekisterÃ¶idyn suostumuksella tai, jos kÃ¤sittelystÃ¤ sÃ¤Ã¤detÃ¤Ã¤n laissa. LisÃ¤ksi henkilÃ¶tunnusta saa kÃ¤sitellÃ¤, jos rekisterÃ¶idyn yksiselitteinen yksilÃ¶iminen on tÃ¤rkeÃ¤Ã¤:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>laissa sÃ¤Ã¤detyn tehtÃ¤vÃ¤n suorittamiseksi;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>rekisterÃ¶idyn tai rekisterinpitÃ¤jÃ¤n oikeuksien ja velvollisuuksien toteuttamiseksi; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_29__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>historiallista tai tieteellistÃ¤ tutkimusta taikka tilastointia varten.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_2">
+                            <content>
+                                <p>HenkilÃ¶tunnusta saa kÃ¤sitellÃ¤ luotonannossa tai saatavan perimisessÃ¤, vakuutus-, luottolaitos-, maksupalvelu-, vuokraus- ja lainaustoiminnassa, luottotietotoiminnassa, terveydenhuollossa, sosiaalihuollossaÂ ja muun sosiaaliturvan toteuttamisessa tai virka-, tyÃ¶- ja muita palvelussuhteita ja niihin liittyviÃ¤ etuja koskevissa asioissa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_3">
+                            <content>
+                                <p>Sen lisÃ¤ksi, mitÃ¤ henkilÃ¶tunnuksen kÃ¤sittelystÃ¤ 1 ja 2 momentissa sÃ¤Ã¤detÃ¤Ã¤n, henkilÃ¶tunnuksen saa luovuttaa osoitetietojen pÃ¤ivittÃ¤miseksi tai moninkertaisten postilÃ¤hetysten vÃ¤lttÃ¤miseksi suoritettavaa tietojenkÃ¤sittelyÃ¤ varten, jos henkilÃ¶tunnus jo on luovutuksensaajan kÃ¤ytettÃ¤vissÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_29__subsec_4">
+                            <content>
+                                <p>HenkilÃ¶tunnusta ei tule merkitÃ¤ tarpeettomasti henkilÃ¶rekisterin perusteella tulostettuihin tai laadittuihin asiakirjoihin.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_30">
+                        <num>30 Â§</num>
+                        <heading>HenkilÃ¶tietojen kÃ¤sittely tyÃ¶suhteen yhteydessÃ¤</heading>
+                        <subsection eId="chp_5__sec_30__subsec_1">
+                            <content>
+                                <p>TyÃ¶ntekijÃ¤Ã¤ koskevien henkilÃ¶tietojen kÃ¤sittelystÃ¤, tyÃ¶ntekijÃ¤lle tehtÃ¤vistÃ¤ testeistÃ¤ ja tarkastuksista sekÃ¤ niitÃ¤ koskevista vaatimuksista, teknisestÃ¤ valvonnasta tyÃ¶paikalla sekÃ¤ tyÃ¶ntekijÃ¤n sÃ¤hkÃ¶postiviestin hakemisesta ja avaamisesta sÃ¤Ã¤detÃ¤Ã¤n yksityisyyden suojasta tyÃ¶elÃ¤mÃ¤ssÃ¤ annetussa laissa (759/2004).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_31">
+                        <num>31 Â§</num>
+                        <heading>TieteellisiÃ¤ ja historiallisia tutkimustarkoituksia sekÃ¤ tilastollisia tarkoituksia varten tapahtuvaa henkilÃ¶tietojen kÃ¤sittelyÃ¤ koskevat poikkeukset ja suojatoimet</heading>
+                        <subsection eId="chp_5__sec_31__subsec_1">
+                            <intro eId="chp_5__sec_31__subsec_1__intro">
+                                <p>KÃ¤siteltÃ¤essÃ¤ henkilÃ¶tietoja tieteellistÃ¤ tai historiallista tutkimustarkoitusta varten voidaan tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa sÃ¤Ã¤detyistÃ¤ rekisterÃ¶idyn oikeuksista tarvittaessa poiketa edellyttÃ¤en, ettÃ¤:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>kÃ¤sittely perustuu asianmukaiseen tutkimussuunnitelmaan;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>tutkimuksella on vastuuhenkilÃ¶ tai siitÃ¤ vastaava ryhmÃ¤; ja</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>henkilÃ¶tietoja kÃ¤ytetÃ¤Ã¤n ja luovutetaan vain historiallista tai tieteellistÃ¤ tutkimusta taikka muuta yhteensopivaa tarkoitusta varten sekÃ¤ muutoinkin toimitaan niin, ettÃ¤ tiettyÃ¤ henkilÃ¶Ã¤ koskevat tiedot eivÃ¤t paljastu ulkopuolisille.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_31__subsec_2">
+                            <intro eId="chp_5__sec_31__subsec_2__intro">
+                                <p>KÃ¤siteltÃ¤essÃ¤ henkilÃ¶tietoja tilastollisia tarkoituksia varten voidaan tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa sÃ¤Ã¤detyistÃ¤ rekisterÃ¶idyn oikeuksista tarvittaessa poiketa edellyttÃ¤en, ettÃ¤:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>tilastoa ei voida tuottaa tai sen tarkoituksena olevaa tiedontarvetta toteuttaa ilman henkilÃ¶tietojen kÃ¤sittelyÃ¤;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>kyseisen tilaston tuottamisella on asiallinen yhteys rekisterinpitÃ¤jÃ¤n toimintaan; ja</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_31__subsec_2__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>tietoja ei luovuteta tai aseteta saataville siten, ettÃ¤ tietty henkilÃ¶ on niistÃ¤ tunnistettavissa, ellei tietoja luovuteta julkista tilastoa varten.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_31__subsec_3">
+                            <content>
+                                <p>KÃ¤siteltÃ¤essÃ¤ tietosuoja-asetuksen 9 artiklan 1 kohdassa ja 10 artiklassa tarkoitettuja henkilÃ¶tietoja 1 tai 2 momentissa sÃ¤Ã¤detyssÃ¤ tarkoituksessa poikkeaminen tietosuoja-asetuksen 15, 16, 18 ja 21 artiklassa sÃ¤Ã¤detyistÃ¤ rekisterÃ¶idyn oikeuksista edellyttÃ¤Ã¤ sen lisÃ¤ksi, mitÃ¤ 1 ja 2Â momentissa sÃ¤Ã¤detÃ¤Ã¤n, ettÃ¤ laaditaan tietosuoja-asetuksen 35 artiklan mukainen tietosuojaa koskeva vaikutustenarviointi tai noudatetaan tietosuoja-asetuksen 40Â artiklan mukaisia kÃ¤ytÃ¤nnesÃ¤Ã¤ntÃ¶jÃ¤, joissa on otettu asianmukaisesti huomioon edellÃ¤ tarkoitettu rekisterÃ¶idyn oikeuksista poikkeaminen. Vaikutustenarviointi tulee toimittaa kirjallisesti tiedoksi tietosuojavaltuutetulle ennen kÃ¤sittelyyn ryhtymistÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_32">
+                        <num>32 Â§</num>
+                        <heading>Yleisen edun mukaisia arkistointitarkoituksia varten tapahtuvaa henkilÃ¶tietojen kÃ¤sittelyÃ¤ koskevatÂ poikkeukset ja suojatoimet</heading>
+                        <subsection eId="chp_5__sec_32__subsec_1">
+                            <content>
+                                <p>KÃ¤siteltÃ¤essÃ¤ henkilÃ¶tietoja yleisen edun mukaisia arkistointitarkoituksia varten 4 Â§:n 4Â kohdan tai tietosuoja-asetuksen 6 artiklan 1 kohdan c alakohdan nojalla voidaan tietosuoja-asetuksen 15, 16 ja 18â21 artiklassa tarkoitetuista rekisterÃ¶idyn oikeuksista poiketa tietosuoja-asetuksen 89 artiklan 3 kohdassa sÃ¤Ã¤detyin edellytyksin.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_33">
+                        <num>33 Â§</num>
+                        <heading>Rajoitukset rekisterinpitÃ¤jÃ¤n velvollisuuteen toimittaa tietoja rekisterÃ¶idylle</heading>
+                        <subsection eId="chp_5__sec_33__subsec_1">
+                            <content>
+                                <p>Tietosuoja-asetuksen 13 ja 14 artiklan mukaisesta velvollisuudesta toimittaa tiedot rekisterÃ¶idylle voidaan poiketa, jos se on vÃ¤lttÃ¤mÃ¤tÃ¶ntÃ¤ valtion turvallisuuden, puolustuksen tai yleisen jÃ¤rjestyksen ja turvallisuuden vuoksi, rikosten ehkÃ¤isemiseksi tai selvittÃ¤miseksi taikka verotukseen tai julkiseen talouteen liittyvÃ¤n valvontatehtÃ¤vÃ¤n vuoksi.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_33__subsec_2">
+                            <content>
+                                <p>Tietosuoja-asetuksen 14 artiklan 1â4 kohdasta voidaan poiketa myÃ¶s, jos tiedon toimittaminen aiheuttaa olennaista vahinkoa tai haittaa rekisterÃ¶idylle eikÃ¤ talletettavia tietoja kÃ¤ytetÃ¤ rekisterÃ¶ityÃ¤ koskevaan pÃ¤Ã¤tÃ¶ksentekoon.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_33__subsec_3">
+                            <content>
+                                <p>Jos rekisterÃ¶idylle ei toimiteta 1 tai 2 momentin perusteella tietoa, rekisterinpitÃ¤jÃ¤n on toteutettava asianmukaiset toimenpiteet rekisterÃ¶idyn oikeuksien suojaamiseksi. NÃ¤ihin toimenpiteisiin kuuluu tietosuoja-asetuksen 14 artiklan 1 ja 2 kohdassa tarkoitettujen tietojen pitÃ¤minen kaikkien saatavilla, ellei tÃ¤mÃ¤ vaaranna tietojen toimittamista koskevan rajoituksen tarkoitusta.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_5__sec_34">
+                        <num>34 Â§</num>
+                        <heading>Rajoitukset rekisterÃ¶idyn oikeuteen tutustua hÃ¤nestÃ¤ kerÃ¤ttyihin tietoihin</heading>
+                        <subsection eId="chp_5__sec_34__subsec_1">
+                            <intro eId="chp_5__sec_34__subsec_1__intro">
+                                <p>RekisterÃ¶idyllÃ¤ ei ole tietosuoja-asetuksen 15 artiklassa tarkoitettua oikeutta tutustua hÃ¤nestÃ¤ kerÃ¤ttyihin tietoihin, jos:</p>
+                            </intro>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_1">
+                                <num>1)â</num>
+                                <content>
+                                    <p>tiedon antaminen saattaisi vahingoittaa kansallista turvallisuutta, puolustusta tai yleistÃ¤ jÃ¤rjestystÃ¤ ja turvallisuutta taikka haitata rikosten ehkÃ¤isemistÃ¤ tai selvittÃ¤mistÃ¤;</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_2">
+                                <num>2)â</num>
+                                <content>
+                                    <p>tiedon antamisesta saattaisi aiheutua vakavaa vaaraa rekisterÃ¶idyn terveydelle tai hoidolle taikka rekisterÃ¶idyn tai jonkun muun oikeuksille; tai</p>
+                                </content>
+                            </paragraph>
+                            <paragraph eId="chp_5__sec_34__subsec_1__para_3">
+                                <num>3)â</num>
+                                <content>
+                                    <p>henkilÃ¶tietoja kÃ¤ytetÃ¤Ã¤n valvonta- ja tarkastustehtÃ¤vissÃ¤ ja tiedon antamatta jÃ¤ttÃ¤minen on vÃ¤lttÃ¤mÃ¤tÃ¶ntÃ¤ Suomen tai Euroopan unionin tÃ¤rkeÃ¤n taloudellisen tai rahoituksellisen edun turvaamiseksi.</p>
+                                </content>
+                            </paragraph>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_2">
+                            <content>
+                                <p>Jos vain osa rekisterÃ¶ityÃ¤ koskevista tiedoista on sellaisia, ettÃ¤ ne 1 momentin mukaan jÃ¤Ã¤vÃ¤t tietosuoja-asetuksen 15 artiklassa tarkoitetun oikeuden ulkopuolelle, rekisterÃ¶idyllÃ¤ on oikeus saada tietÃ¤Ã¤ muut hÃ¤ntÃ¤ koskevat tiedot.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_3">
+                            <content>
+                                <p>RekisterÃ¶idylle on ilmoitettava rajoituksen syyt, ellei tÃ¤mÃ¤ vaaranna rajoituksen tarkoitusta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_5__sec_34__subsec_4">
+                            <content>
+                                <p>Jos rekisterÃ¶idyllÃ¤ ei ole oikeutta tutustua hÃ¤nestÃ¤ kerÃ¤ttyihin tietoihin, tietosuoja-asetuksen 15Â artiklan 1 kohdassa tarkoitetut tiedot on annettava tietosuojavaltuutetulle rekisterÃ¶idyn pyynnÃ¶stÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+                <chapter eId="chp_6">
+                    <num>6 luku</num>
+                    <heading>ErinÃ¤iset sÃ¤Ã¤nnÃ¶kset</heading>
+                    <section eId="chp_6__sec_35">
+                        <num>35 Â§</num>
+                        <heading>Vaitiolovelvollisuus</heading>
+                        <subsection eId="chp_6__sec_35__subsec_1">
+                            <content>
+                                <p>Joka henkilÃ¶tietojen kÃ¤sittelyyn liittyviÃ¤ toimenpiteitÃ¤ suorittaessaan on saanut tietÃ¤Ã¤ jotakin toisen henkilÃ¶n ominaisuuksista, henkilÃ¶kohtaisista oloista, taloudellisesta asemasta taikka toisen liikesalaisuudesta, ei saa oikeudettomasti ilmaista sivulliselle nÃ¤in saamiaan tietoja eikÃ¤ kÃ¤yttÃ¤Ã¤ niitÃ¤ omaksi tai toisen hyÃ¶dyksi tai toisen vahingoksi.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_36">
+                        <num>36 Â§</num>
+                        <heading>Ilmoittajan henkilÃ¶llisyyden suojaaminen</heading>
+                        <subsection eId="chp_6__sec_36__subsec_1">
+                            <content>
+                                <p>Kun luonnollinen henkilÃ¶ on tehnyt tietosuojavaltuutetulle ilmoituksen sen valvontaan kuuluvien sÃ¤Ã¤nnÃ¶sten epÃ¤illystÃ¤ rikkomisesta, ilmoittajan henkilÃ¶llisyys on pidettÃ¤vÃ¤ salassa, jos henkilÃ¶llisyyden paljastamisesta voidaan olosuhteiden perusteella arvioida aiheutuvan haittaa ilmoittajalle.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_37">
+                        <num>37 Â§</num>
+                        <heading>Voimaantulo</heading>
+                        <subsection eId="chp_6__sec_37__subsec_1">
+                            <content>
+                                <p>TÃ¤mÃ¤ laki tulee voimaan 1 pÃ¤ivÃ¤nÃ¤ tammikuuta 2019.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_37__subsec_2">
+                            <content>
+                                <p>TÃ¤llÃ¤ lailla kumotaan henkilÃ¶tietolaki (523/1999) sekÃ¤ tietosuojalautakunnasta ja tietosuojavaltuutetusta annettu laki (389/1994).</p>
+                            </content>
+                        </subsection>
+                    </section>
+                    <section eId="chp_6__sec_38">
+                        <num>38 Â§</num>
+                        <heading>SiirtymÃ¤sÃ¤Ã¤nnÃ¶kset</heading>
+                        <subsection eId="chp_6__sec_38__subsec_1">
+                            <content>
+                                <p>Tietosuojalautakunnan myÃ¶ntÃ¤mien lupien voimassaolo pÃ¤Ã¤ttyy tÃ¤mÃ¤n lain tullessa voimaan. Tietosuojalautakunnassa ennen tÃ¤mÃ¤n lain voimaantuloa vireille tulleet asiat raukeavat lain voimaan tullessa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_2">
+                            <content>
+                                <p>TÃ¤mÃ¤n lain voimaan tullessa vireillÃ¤ olevaan tietosuojavaltuutetulle tehtÃ¤vÃ¤Ã¤ ilmoitusta koskevaan asiaan sovelletaan henkilÃ¶tietolain 36 ja 37 Â§:n sÃ¤Ã¤nnÃ¶ksiÃ¤ ilmoitusvelvollisuudesta ja ilmoituksen tekemisestÃ¤.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_3">
+                            <content>
+                                <p>TÃ¤mÃ¤n lain voimaan tullessa vireillÃ¤ olevassa tarkastusoikeuden toteuttamista ja henkilÃ¶tietojen korjaamista koskevassa asiassa ei sovelleta sellaisia tietosuoja-asetuksen 12 ja 15â18Â artiklan sÃ¤Ã¤nnÃ¶ksiÃ¤, joissa asetetaan rekisterinpitÃ¤jÃ¤lle laajempia velvollisuuksia kuin tÃ¤mÃ¤nÂ lain voimaan tullessa voimassa olleet sÃ¤Ã¤nnÃ¶kset edellyttÃ¤vÃ¤t, jos mainittujen tietosuoja-asetuksen sÃ¤Ã¤nnÃ¶sten soveltaminen olisi rekisterinpitÃ¤jÃ¤n kannalta kohtuutonta.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_4">
+                            <content>
+                                <p>Haettaessa muutosta ennen tÃ¤mÃ¤n lain voimaantuloa tehtyyn tietosuojalautakunnan ja tietosuojavaltuutetun pÃ¤Ã¤tÃ¶kseen sovelletaan tÃ¤mÃ¤n lain voimaan tullessa voimassa olleita sÃ¤Ã¤nnÃ¶ksiÃ¤. YlimÃ¤Ã¤rÃ¤iseen muutoksenhakuun sovelletaan tÃ¤mÃ¤n lain voimaan tullessa voimassa olleita sÃ¤Ã¤nnÃ¶ksiÃ¤ kuitenkin vain, jos se on pantu vireille ennen tÃ¤mÃ¤n lain voimaantuloa.</p>
+                            </content>
+                        </subsection>
+                        <subsection eId="chp_6__sec_38__subsec_5">
+                            <content>
+                                <p>Jos vahinkoa aiheuttanut teko on tehty ennen tÃ¤mÃ¤n lain voimaantuloa, velvollisuuteen korvata vahinko sovelletaan tÃ¤mÃ¤n lain voimaan tullessa voimassa olleita sÃ¤Ã¤nnÃ¶ksiÃ¤.</p>
+                            </content>
+                        </subsection>
+                    </section>
+                </chapter>
+            </hcontainer>
+            <hcontainer finlex:outline="EsityÃ¶t ja allekirjoitukset" name="conclusions">
+                <hcontainer finlex:outline="EsityÃ¶t" name="preliminaryWork">
+                    <content>
+                        <p>
+                            <ref href="/akn/fi/doc/government-proposal/2018/9">HE 9/2018</ref>
+                        </p>
+                        <p>HaVM 13/2018</p>
+                        <p>EV 108/2018</p>
+                        <p>Euroopan parlamentin ja neuvoston asetus (EU) N:o 679/2016 (32016R0679); EUVL L 119, 4.5.2016, s. 1</p>
+                    </content>
+                </hcontainer>
+                <hcontainer finlex:outline="Allekirjoitukset" name="signatures">
+                    <content>
+                        <p>HelsingissÃ¤ 5 pÃ¤ivÃ¤nÃ¤ joulukuuta 2018</p>
+                        <p>
+                            <signature>
+                                <role refersTo="">Tasavallan Presidentti</role>
+                                <person refersTo="">Sauli NiinistÃ¶</person>
+                            </signature>
+                            <signature>
+                                <role refersTo="">Oikeusministeri</role>
+                                <person refersTo="">Antti HÃ¤kkÃ¤nen</person>
+                            </signature>
+                        </p>
+                    </content>
+                </hcontainer>
+            </hcontainer>
+        </body>
+    </act>
+</akomaNtoso>
+</Results></AknXmlList>

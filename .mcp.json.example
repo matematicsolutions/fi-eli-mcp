@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fi-eli-mcp": {
+      "command": "fi-eli-mcp",
+      "env": {
+        "FI_ELI_BASE_URL": "https://opendata.finlex.fi/finlex/avoindata/v1",
+        "FI_ELI_CACHE_DIR": "~/.matematic/cache/fi-eli",
+        "FI_ELI_AUDIT_DIR": "~/.matematic/audit"
+      }
+    }
+  }
+}
