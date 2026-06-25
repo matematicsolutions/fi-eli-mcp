@@ -1,5 +1,7 @@
 # fi-eli-mcp
 
+<!-- mcp-name: io.github.matematicsolutions/fi-eli-mcp -->
+
 An MCP server for the Finnish **Finlex** open-data API (`opendata.finlex.fi`). It fetches
 consolidated Finnish statutes as Akoma Ntoso 3.0 XML, with verifiable ELI identifiers and
 Finnish citations.
