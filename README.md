@@ -2,6 +2,23 @@
 
 <!-- mcp-name: io.github.matematicsolutions/fi-eli-mcp -->
 
+
+## Instalacja (jedna komenda)
+
+Opublikowany na PyPI + MCP Registry (`io.github.matematicsolutions/fi-eli-mcp`). Uruchomienie bez klonowania:
+
+```bash
+uvx fi-eli-mcp
+```
+
+Konfiguracja klienta MCP (stdio):
+
+```json
+{ "mcpServers": { "fi-eli-mcp": { "command": "uvx", "args": ["fi-eli-mcp"] } } }
+```
+
+(Budowanie ze źródeł — niżej.)
+
 An MCP server for the Finnish **Finlex** open-data API (`opendata.finlex.fi`). It fetches
 consolidated Finnish statutes as Akoma Ntoso 3.0 XML, with verifiable ELI identifiers and
 Finnish citations.
