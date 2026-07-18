@@ -17,6 +17,25 @@ Konfiguracja klienta MCP (stdio):
 { "mcpServers": { "fi-eli-mcp": { "command": "uvx", "args": ["fi-eli-mcp"] } } }
 ```
 
+### Windows 11 ze Smart App Control
+
+Smart App Control blokuje niepodpisane pliki wykonywalne, a `uvx.exe`, `pip.exe`
+i generowany przy instalacji `fi-eli-mcp.exe` podpisane nie sa. `python.exe`
+z python.org jest podpisany przez Python Software Foundation, wiec uruchomienie
+przez modul omija blokade:
+
+```bash
+python -m pip install fi-eli-mcp
+python -m fi_eli_mcp
+```
+
+```json
+{ "mcpServers": { "fi-eli-mcp": { "command": "python", "args": ["-m", "fi_eli_mcp"] } } }
+```
+
+Nie wylaczaj Smart App Control, zeby to obejsc - wylaczenia nie da sie cofnac
+bez ponownej instalacji systemu.
+
 (Budowanie ze źródeł — niżej.)
 
 An MCP server for the Finnish **Finlex** open-data API (`opendata.finlex.fi`). It fetches
