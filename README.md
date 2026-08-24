@@ -62,6 +62,7 @@ contract, Finlex source.
 | `fi_list_acts` | List the statutes of a year (discovery). |
 | `fi_get_act` | Metadata for a statute by year + number. |
 | `fi_get_text` | Full Akoma Ntoso text of a statute by year + number. |
+| `fi_coverage` | Declare what this connector covers, when each family was captured, and - explicitly - what it does NOT cover. Every gap carries a fallback. |
 
 Every response carries the contract: `eli_uri` (a full ELI URL, e.g.
 `http://data.finlex.fi/eli/sd/2018/1050/alkup`), `human_readable_citation`

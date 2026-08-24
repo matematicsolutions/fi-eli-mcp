@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "fi-eli-mcp"
-version = "0.2.2"
+version = "0.3.0"
 description = "MCP server for the Finnish Finlex open-data API (opendata.finlex.fi) — fetch consolidated statutes (Akoma Ntoso) with ELI identifiers and verifiable citations."
 readme = "README.md"
 license = { text = "Apache-2.0" }
