@@ -37,6 +37,7 @@ This MCP server exposes the Finnish Finlex open-data API (opendata.finlex.fi). I
 
 ## Hard constraints
 
+- **Do not answer past the edge of this corpus** - when a search comes back empty, or the question touches material this connector does not carry, call `fi_coverage` and relay what it says is missing. Absence here is not absence in the law.
 - **No free-text search** - the open-data API is addressed by year and number, not keywords. Discover via `fi_list_acts` (by year). Relay the `dataset_note`.
 - **ELI is the key to citability** - Finlex returns a full ELI URL in `eli_uri`; do not invent it.
 - **Every response has `human_readable_citation` + `source_url`** - cite both to the user.
