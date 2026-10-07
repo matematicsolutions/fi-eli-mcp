@@ -5,6 +5,14 @@
 
 ## Install (one command)
 
+As a Claude plugin (Claude Code or the desktop app, needs [uv](https://docs.astral.sh/uv/));
+see [plugin/README.md](plugin/README.md) for what it sends and stores:
+
+```
+/plugin marketplace add matematicsolutions/fi-eli-mcp
+/plugin install fi-eli-mcp@fi-eli-mcp
+```
+
 Published on PyPI + MCP Registry (`io.github.matematicsolutions/fi-eli-mcp`). Run without cloning:
 
 ```bash
@@ -97,7 +105,12 @@ No API key. Finlex open data is keyless.
 
 - **Public data only** - read-only against Finlex; no client data leaves the machine.
 - **Audit log** - every tool call appends one JSON line to `~/.matematic/audit/fi-eli-mcp.jsonl`.
-- **Vendor-neutral** - talks only to `opendata.finlex.fi`; no LLM provider, no telemetry.
+- **Network** - the server talks to the official source(s) named above and the local
+  filesystem. Once, on first use, it also fetches a small configuration file
+  (`fi-runtime.json.gz`, updated source addresses) from this repository's GitHub Releases.
+  That request carries no query content; GitHub's download counter for the file is the only
+  usage signal we see. `FI_ELI_RUNTIME_URL=""` turns it off; the Claude plugin ships
+  with it off. No LLM provider, no other telemetry.
 - **Verifiable citations** - every response is independently checkable via `source_url`.
 
 See `CONSTITUTION.md` and `DISCOVERY.md`.
